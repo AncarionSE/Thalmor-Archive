@@ -24,7 +24,13 @@ appear automatically.
   defined in `src/lib/categories.ts`. The category a report belongs to is
   derived from its folder, not a frontmatter field.
 - Frontmatter: `title`, `author`, `date` (in-world date string), `classification`, `summary`, `order`
-- Page breaks inside a report are explicit: a line containing only `<!--page-->`
+- Page breaks are generated, not hand-authored: a line containing only
+  `<!--page-->` marks a break, but these are inserted by `npm run paginate`
+  (`scripts/paginate.mjs`), which measures each block against the live
+  page's real capacity so nothing overflows into a scrollbar or leaves a
+  page half-empty. A `<!--force-page-->` line forces a break at a specific
+  spot and is preserved verbatim across re-runs, unlike plain `<!--page-->`.
+  See `CONTRIBUTING.md` for the authoring workflow.
 - The first page of a report body is treated as the title page (right-hand page of the first spread)
 
 ### Code Style

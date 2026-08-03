@@ -37,6 +37,19 @@ report title as a running head in small caps.
 - **WHEN** the reader is on the first spread
 - **THEN** the previous control is disabled and ArrowLeft does nothing
 
+### Requirement: Page fitting
+Each content page's text SHALL fit within `.page-text` without a scrollbar,
+and SHOULD use a reasonable fraction of the available height rather than
+sitting mostly blank. Page breaks that satisfy this are the responsibility
+of `npm run paginate` (`scripts/paginate.mjs`), not the reader itself — the
+reader only ever renders whatever `<!--page-->` breaks are already in a
+report's Markdown body.
+
+#### Scenario: Report edited and re-paginated
+- **WHEN** a report's body is edited and `npm run paginate` is re-run
+- **THEN** every page's rendered text fits `.page-text` without overflowing,
+  at both desktop and mobile page widths
+
 ### Requirement: Title page insignia
 The title page SHALL display the archive's Thalmor eagle emblem
 (`public/icons/eagle.png`, a transparent cutout) above the classification

@@ -9,3 +9,5 @@ and appear automatically, styled and paginated like a book in the ledger.
 The site never breaks character in its reader-facing copy; navigation,
 labels, and empty states all use archive/ledger vocabulary rather than
 generic web UI text.
+
+To file a new report, see [CONTRIBUTING.md](CONTRIBUTING.md).

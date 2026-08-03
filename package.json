@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "new-report": "node scripts/new-report.mjs",
+    "paginate": "node scripts/paginate.mjs"
   },
   "dependencies": {
     "@fontsource/cinzel": "^5.1.0",

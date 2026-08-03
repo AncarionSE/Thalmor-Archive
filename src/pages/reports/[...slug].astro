@@ -28,9 +28,10 @@ const titlePage = `
     <p class="date">${date}</p>
   </div>`;
 
-// Content pages: split the body on <!--page--> markers
+// Content pages: split the body on <!--page--> (auto) or <!--force-page-->
+// (manual override, see CONTRIBUTING.md) markers
 const chunks = (report.body ?? '')
-  .split(/<!--\s*page\s*-->/)
+  .split(/<!--\s*(?:force-)?page\s*-->/)
   .map((c) => c.trim())
   .filter(Boolean);
 

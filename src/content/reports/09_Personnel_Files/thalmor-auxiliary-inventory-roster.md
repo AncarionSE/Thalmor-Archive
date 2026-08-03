@@ -84,6 +84,8 @@ order: 22
 
 | No. | Name | Status | Armor Status |
 |-----|------|---------|---------------|
+| No. | Name | Status | Armor Status |
+|-----|------|---------|---------------|
 | 26 | Pelnora | New soldier, lacks soldier role | Possibly has armor |
 
 <!--page-->
