@@ -26,7 +26,9 @@ const volumes = CATEGORIES.filter((c) => (counts.get(c.key) ?? 0) > 0);
       {volumes.map((v) => (
         <a class="volume" role="listitem" href={`${import.meta.env.BASE_URL}category/${v.key}/`} style={`--spine:${v.spine}`}>
           <span class="cover">
-            <span class="glyph" set:html={v.icon} />
+            {v.img
+              ? <img class="glyph glyph-img" src={`${import.meta.env.BASE_URL}icons/${v.img}`} alt="" loading="lazy" />
+              : <span class="glyph" set:html={v.icon} />}
             <span class="vlabel" set:html={v.label} />
           </span>
           <span class="count">{counts.get(v.key)} filed</span>
@@ -104,6 +106,10 @@ const volumes = CATEGORIES.filter((c) => (counts.get(c.key) ?? 0) > 0);
   }
   .glyph { width: 30%; color: var(--parchment-edge); opacity: .92; }
   .glyph :global(svg) { width: 100%; height: auto; display: block; }
+  .glyph-img {
+    width: auto; max-width: 62%; height: 42%; object-fit: contain;
+    opacity: 1; filter: drop-shadow(0 4px 6px rgba(0,0,0,.55));
+  }
   .vlabel {
     font-family: var(--font-caps); letter-spacing: .06em;
     font-size: clamp(.78rem, 1.6vw, .92rem);

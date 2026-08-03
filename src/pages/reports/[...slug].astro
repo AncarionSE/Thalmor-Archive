@@ -3,7 +3,6 @@ import { getCollection } from 'astro:content';
 import { marked } from 'marked';
 import Base from '../../layouts/Base.astro';
 import Book from '../../components/Book.astro';
-import { insignia } from '../../lib/insignia';
 
 export async function getStaticPaths() {
   const reports = await getCollection('reports');
@@ -21,7 +20,7 @@ const ornament = `<div class="ornament" aria-hidden="true"><svg width="26" heigh
 // Title page (page 0), generated from frontmatter
 const titlePage = `
   <div class="title-page" style="display:flex;flex-direction:column;flex:1">
-    ${insignia('title')}
+    <img class="insignia" src="${import.meta.env.BASE_URL}icons/eagle.png" alt="" />
     <span class="classification">${classification}</span>
     <h1>${title}</h1>
     ${ornament}

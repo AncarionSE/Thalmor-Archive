@@ -38,9 +38,10 @@ report title as a running head in small caps.
 - **THEN** the previous control is disabled and ArrowLeft does nothing
 
 ### Requirement: Title page insignia
-The title page SHALL display an original Thalmor eagle mark above the
-classification stamp. The mark SHALL be hand-drawn SVG (no game assets),
-colored via the seal color token so it reads correctly against the parchment.
+The title page SHALL display the archive's Thalmor eagle emblem
+(`public/icons/eagle.png`, a transparent cutout) above the classification
+stamp, and the closed cover board SHALL bear the same emblem centered on the
+leather.
 
 ### Requirement: Typography
 Body text SHALL use an aged-print serif (IM Fell English). Titles and running

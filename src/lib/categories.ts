@@ -2,7 +2,8 @@ export interface Category {
   key: string; // matches the report.id folder segment (lowercased by Astro)
   label: string;
   spine: string; // leather tone for the shelf card
-  icon: string; // inline SVG markup, bold filled silhouette, currentColor
+  icon: string; // fallback inline SVG markup, currentColor
+  img?: string; // filename under public/icons/ — preferred over icon when set
 }
 
 // Bold filled-silhouette glyphs, hand-drawn originals (no game assets) —
@@ -16,6 +17,7 @@ const mixed = (viewBox: string, body: string) =>
 export const CATEGORIES: Category[] = [
   {
     key: '01_intelligence',
+    img: 'eagle.png',
     label: 'Intelligence Reports',
     spine: '#5b2a2a',
     // the same spread-wing mark as the book insignia, flattened to one tone
@@ -31,6 +33,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '02_incident_reports',
+    img: 'sword.png',
     label: 'Patrol &amp; Incident Reports',
     spine: '#4a3420',
     icon: fill(
@@ -43,6 +46,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '03_diplomatic_correspondence',
+    img: 'triskele.png',
     label: 'Diplomatic Correspondence',
     spine: '#2c3d4a',
     icon: fill(
@@ -53,6 +57,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '04_administrative_orders',
+    img: 'sigil.png',
     label: 'Administrative Orders',
     spine: '#3a2e17',
     icon: fill(
@@ -63,6 +68,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '05_promotions_and_appointments',
+    img: 'key.png',
     label: 'Promotions &amp; Appointments',
     spine: '#4d3a1d',
     icon: fill(
@@ -72,6 +78,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '06_procurement_and_trade',
+    img: 'gauntlet.png',
     label: 'Procurement &amp; Trade',
     spine: '#3f2a3a',
     icon: mixed(
@@ -103,6 +110,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '09_personnel_files',
+    img: 'tree.png',
     label: 'Personnel Files',
     spine: '#463228',
     icon: fill(
@@ -132,6 +140,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: 'appendix',
+    img: 'flask.png',
     label: 'Appendix',
     spine: '#302a2a',
     icon: fill('0 0 24 24', `<path d="M6 2h12v20l-6-4-6 4Z"/>`),

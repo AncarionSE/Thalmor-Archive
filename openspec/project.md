@@ -30,7 +30,10 @@ appear automatically.
 ### Code Style
 - No client-side framework; one script per interactive component
 - All colors/typography flow from CSS custom properties in `src/styles/global.css`
-- No Bethesda assets (fonts, textures, logos). All texture is CSS/SVG generated; all ornament is original.
+- Page/parchment texture is CSS/SVG generated. Emblem imagery (the eagle
+  insignia, shelf volume icons) comes from curated images supplied by the
+  archive's owner: originals live in `assets-raw/`, processed transparent
+  cutouts in `public/icons/`.
 
 ### Accessibility / Quality floor
 - Keyboard navigation (←/→) for page turns

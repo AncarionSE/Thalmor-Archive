@@ -1,6 +1,4 @@
 ---
-import { insignia } from '../lib/insignia';
-
 interface Props {
   title: string;
   pages: string[]; // page 0 = title page HTML, then content pages
@@ -12,7 +10,7 @@ const { title, pages } = Astro.props;
 
   <div class="book" data-book aria-label={`Book: ${title}`}>
     <div class="board" data-board>
-      <div class="board-emblem" set:html={insignia('cover')} />
+      <img class="board-emblem" src={`${import.meta.env.BASE_URL}icons/eagle.png`} alt="" />
     </div>
     <div class="page page-left parchment">
       <button class="edge edge-left" data-prev aria-label="Previous page"></button>
@@ -87,9 +85,9 @@ const { title, pages } = Astro.props;
   .book.at-cover .board { display: flex; }
   .book.at-cover .page-left { visibility: hidden; }
   .board-emblem {
-    width: 46%; filter: drop-shadow(0 6px 10px rgba(0,0,0,.65));
+    width: 46%; height: auto; display: block;
+    filter: drop-shadow(0 6px 10px rgba(0,0,0,.65));
   }
-  .board-emblem :global(svg) { width: 100%; height: auto; display: block; }
 
   .spine {
     width: 4px; align-self: stretch; z-index: 2;
