@@ -23,8 +23,6 @@ Kus'sne stated that the remaining individuals within the hideout were, by his ac
 
 While I was taking notes and speaking with Kus'sne, a bald-headed Nordic man wearing only a loincloth approached and attempted to report an Argonian allegedly praising Talos outside the embassy. He urgently insisted that I follow him to address the matter personally.
 
-<!--page-->
-
 His behavior was immediately suspicious and bore resemblance to known ambush or diversion tactics used by the Sons of Skyrim. When I informed him that I could take the information and handle the alleged Talos worshipper myself, he became visibly fidgety. Shortly after, he shouted, "Praise Talos!" and fled the area.
 
 <!--page-->
@@ -32,8 +30,6 @@ His behavior was immediately suspicious and bore resemblance to known ambush or 
 ## Closing Notes
 
 Due to the suspicious nature of this encounter, I will remain alert for further information regarding this individual and any possible connection to rebel activity. The events described above were relayed verbatim to Officer Elvander Wenston, as we were the only personnel on duty at the time.
-
-<!--page-->
 
 **Operational Note:** I was unable to apprehend the fleeing Nordic man for questioning or investigate, as I was locked inside the embassy without access to the necessary keys.
 

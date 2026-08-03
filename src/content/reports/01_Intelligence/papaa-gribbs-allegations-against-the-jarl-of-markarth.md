@@ -15,13 +15,11 @@ order: 37
 
 Information was received from **Papaa Gribb** regarding ongoing disputes involving the **Jarl of Markarth** and **Lord Zerian**.
 
-<!--page-->
-
 According to Papaa Gribb, a note was left for Lord Zerian concerning allegations surrounding membership in the Blades. Subsequent events reportedly led to individuals arriving at **Fort Sungard**, where attempts were allegedly made to enthrall Papaa Gribb.
 
-Papaa Gribb further claimed that a **warped soul gem** was used to enthrall two of his men and alleged that these actions were connected to the Jarl of Markarth. He stated that the purpose of these actions was to remove or suppress accusations linking him to the Blades and to seek help ousting the Jarl.
-
 <!--page-->
+
+Papaa Gribb further claimed that a **warped soul gem** was used to enthrall two of his men and alleged that these actions were connected to the Jarl of Markarth. He stated that the purpose of these actions was to remove or suppress accusations linking him to the Blades and to seek help ousting the Jarl.
 
 ### Assessment
 

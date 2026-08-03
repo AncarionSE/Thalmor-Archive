@@ -13,8 +13,6 @@ order: 59
 
 Information received from our contact **Sophia** indicates growing concerns regarding **Recruit Valyn Valmont**.
 
-<!--page-->
-
 According to our source, the recruit has been observed operating alongside individuals believed to be affiliated with a **Molag Bal cult**. Independent reports further indicate that the Legion has also become aware of these alleged associations while the recruit remains a member of the Thalmor, creating a potential reputational and security concern.
 
 <!--page-->
@@ -29,15 +27,15 @@ I recommend that the apprehension be conducted discreetly and without public spe
 
 It should also be noted that Recruit Valyn Valmont has previously disseminated false information concerning the **Jarl of Falkreath**, at a time when relations with both the Legion and the Holds remain particularly sensitive. Such conduct has the potential to further damage the reputation of the Embassy.
 
-<!--page-->
-
 **Personal Observations**
+
+<!--page-->
 
 Recruit Valyn Valmont has consistently displayed an unusual eagerness for promotion and has repeatedly expressed interest in obtaining a set of **Black Thalmor Armor**. He has also been overheard stating to one of the officers that the Thalmor are not sufficiently strict in disciplining their soldiers. Furthermore, he has reportedly undertaken independent intelligence-gathering and espionage activities without authorization despite holding the rank of Recruit.
 
-<!--page-->
-
 Taken collectively, these incidents demonstrate a pattern of behavior that merits immediate review. I recommend that the recruit be allowed to believe he remains in good standing until the planned meeting, at which point he may be apprehended, questioned, and appropriate action taken based upon the findings.
+
+<!--page-->
 
 **Submitted,**
 

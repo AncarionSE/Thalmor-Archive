@@ -13,13 +13,11 @@ order: 41
 
 Met with **Ma'anita**, Master Smith of Dawnstar, and representatives of the **Temple of Zenithar** regarding the establishment of a recurring supply agreement for strategic smithing materials.
 
-<!--page-->
-
 Beginning next **Sundas**, their operation will provide the Dominion with regular shipments of **Moonstone** and **Quicksilver** at reduced rates. Agreed prices are **100 gold septims per refined Moonstone ingot** and **140 gold septims per Quicksilver ingot**, representing a discount of approximately **20 gold septims** below current market rates.
 
-Additionally, I met with **Thane Cinderwood of Windhelm**, proprietor of the **Cinderwood Trading Company**. Thane Cinderwood expressed willingness to conduct trade with the Embassy and provide both ore and refined ingots at competitive rates comparable to those offered by Dawnstar suppliers.
-
 <!--page-->
+
+Additionally, I met with **Thane Cinderwood of Windhelm**, proprietor of the **Cinderwood Trading Company**. Thane Cinderwood expressed willingness to conduct trade with the Embassy and provide both ore and refined ingots at competitive rates comparable to those offered by Dawnstar suppliers.
 
 The Cinderwood Trading Company is also prepared to supply **wheat** at a rate of **2 gold septims per unit**, with trade expected to commence in the near future.
 

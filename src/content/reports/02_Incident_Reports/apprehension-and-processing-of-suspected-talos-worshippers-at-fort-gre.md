@@ -23,48 +23,38 @@ A Nord male, claiming to be a priest and previously apprehended in Whiterun, was
 
 The Nord suspect refused to pay the imposed heresy fine and refused to denounce Talos as a divine. Following his continued non-compliance, he was executed within the fort.
 
-<!--page-->
-
 Upon returning to **Whiterun**, I located the Dunmer matching the description provided by the deceased suspect. The individual was apprehended and transferred to the cells beneath **Dragonsreach** for questioning.
+
+<!--page-->
 
 Unlike the previous suspect, the Dunmer agreed to pay the heresy fine and formally denounced Talos as divine.
 
 As the individual lacked the required sum of **100 gold**, the following property was confiscated in lieu of payment:
 
 - One full set of Northern Steel armor
-
 - One Sabre Cat cloak
-
-<!--page-->
-
 - One steel weapon
 
 The confiscated items were accepted as payment of the imposed fine.
 
+<!--page-->
+
 ### Persons Mentioned
 
 - Baron Papa Gribb
-
 - Unnamed Nord male claiming to be a priest
-
 - Unnamed Dunmer male
-
-<!--page-->
 
 ### Locations
 
 - Fort Greymoor
-
 - Whiterun
-
 - Dragonsreach Dungeon
+
+<!--page-->
 
 ### Outcome
 
 - One Nord suspect executed following refusal to comply.
-
 - One Dunmer suspect fined and released following payment and formal denunciation of Talos.
-
-<!--page-->
-
 - Confiscated property accepted in place of monetary payment.

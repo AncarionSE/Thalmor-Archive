@@ -25,8 +25,6 @@ These efforts have proven particularly valuable during periods of material scarc
 
 While I greatly enjoy training recruits, leading patrols, and assisting in the development of our soldiers, I have found that the increasing demands of administration, procurement, record keeping, and supply management are becoming substantial responsibilities in their own right. I fear that attempting to balance all of these duties simultaneously may ultimately diminish my effectiveness in each role.
 
-<!--page-->
-
 As such, I would respectfully request consideration for a position more focused on logistics, administration, procurement, and resource management within the Dominion. I believe my experience as Quartermaster, archivist, instructor, and blacksmith has provided me with a unique understanding of our operational needs and the challenges involved in sustaining them.
 
 <!--page-->

@@ -31,9 +31,9 @@ Commander Leo confirmed that Whiterun Guards would identify Talos worshippers bu
 
 Independent reports from **Sinmo Aldor** and **Althenar Nuramor** document Commander Leo publicly stating, before Whiterun Guards, Legionnaires, and civilians, that the Thalmor would never receive the keys to his dungeon, that the Dominion would have to make arrests independently, that the Thalmor were "prancing around the Holds," and that he expected they would eventually "lose their heads." One guard reportedly responded, "Yeah, fuck 'em."
 
-<!--page-->
-
 **Assessment:** This demonstrates not merely disagreement but active encouragement of anti-Dominion sentiment among Whiterun's security forces.
+
+<!--page-->
 
 ## 3. Policy Reversal
 
@@ -72,17 +72,13 @@ The following remain unconfirmed: membership in the Blades, Talos worship, coord
 ## Recommended Actions
 
 - Continue discreet surveillance of Commander Leo.
-
 - Monitor changes in Whiterun Guard enforcement.
-
 - Identify officers loyal to Leo.
+- Determine whether Talos worshippers increase following the policy change.
 
 <!--page-->
 
-- Determine whether Talos worshippers increase following the policy change.
-
 - Monitor contact with Companions and known Blade sympathizers.
-
 - Cross-reference future reports involving Leo with intelligence from Whiterun, the Companions, and Fort Greymoor.
 
 <!--page-->

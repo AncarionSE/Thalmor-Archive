@@ -21,9 +21,9 @@ On the quicksilver shortage: the Dawnstar mines that supply the province are hel
 
 Of greater interest: the mountains around Falkreath contain workable nodes of both quicksilver and moonstone. The deposits sit largely untouched.
 
-<!--page-->
-
 I was also offered a position of blacksmith for the town, as they seem to be in great need of a smith of some expertise.
+
+<!--page-->
 
 ## Local Notes
 

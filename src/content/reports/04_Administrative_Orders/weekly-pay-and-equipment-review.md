@@ -17,9 +17,9 @@ During this review, personnel records, issued equipment, and armor assignments w
 
 Please report in an orderly fashion.
 
-<!--page-->
-
 Signed,
+
+<!--page-->
 
 Chief Administrator
 Ancarion Saelthar

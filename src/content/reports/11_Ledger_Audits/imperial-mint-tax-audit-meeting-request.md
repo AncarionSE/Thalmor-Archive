@@ -17,8 +17,6 @@ Imperial Minter **Scarlet** arrived at the Embassy gates and informed Dominion p
 
 Scarlet further stated that representatives of the **Imperial Mint** wish to hold a formal meeting with the Embassy regarding financial allocations and the distribution of Imperial funds. The proposed meeting is scheduled for **Fredas at 2:00 PM Skyrim Time** and is expected to include the **Master of Tax**, **Imperial Minters**, and the **Master of Septims**.
 
-<!--page-->
-
 As Administrator and Quartermaster, I am requesting guidance from the Justiciars regarding any questions, concerns, or matters that should be raised during the meeting. Particular interest should be given to current financial allocations, resource acquisition funding, procurement support, ore acquisition, military supply budgets, and any opportunities to improve the Dominion's access to strategic materials and operational funding.
 
 <!--page-->

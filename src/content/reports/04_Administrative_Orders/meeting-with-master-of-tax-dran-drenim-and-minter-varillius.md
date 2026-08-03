@@ -17,13 +17,11 @@ Met with **Master of Tax Dran Drenim** and **Imperial Minter Varillius**, both r
 
 During discussions, the officials raised concerns regarding the current difficulties surrounding the acquisition of precious ores and strategic materials, particularly those required for arms and armor production. Conversation also focused on the current state of financial support provided by the Empire to the Dominion and the possibility of increasing allocations provided to Dominion operations rather than directing the majority of resources toward the Imperial Legion.
 
-<!--page-->
-
 Both officials expressed interest in holding a formal meeting with Dominion leadership, with the presence of a Justiciar requested, in order to discuss these matters further.
 
-As Administrator and Quartermaster, I am formally requesting updated information regarding the Dominion's current budget, resource allocations, and financial standing. Access to accurate figures will allow meaningful participation in future negotiations and ensure that any discussions are conducted in good faith and in the best interests of the Dominion.
-
 <!--page-->
+
+As Administrator and Quartermaster, I am formally requesting updated information regarding the Dominion's current budget, resource allocations, and financial standing. Access to accurate figures will allow meaningful participation in future negotiations and ensure that any discussions are conducted in good faith and in the best interests of the Dominion.
 
 Based on the concerns raised during the meeting, there is a growing perception among certain Imperial officials that the Imperial Legion currently receives a disproportionate share of available funding and strategic resources, particularly regarding gold reserves and access to malachite.
 

@@ -21,21 +21,19 @@ The Forsworn should not be viewed as a conventional cult or bandit organization.
 
 **Bandits** — Primarily motivated by wealth and survival. Lack centralized leadership or political goals. Conduct raids for profit.
 
-<!--page-->
-
 **Daedric Cults** — Primarily motivated by religious devotion. Organized around worship of a specific deity or entity. Often pursue rituals, sacrifices, or ideological objectives.
 
-**Forsworn** — Tribal and political organization. Possess territorial claims, leadership structures, traditions, and diplomatic relations. Conduct raids and warfare as part of broader political and tribal objectives. Maintain religious elements centered around Hircine, but religion is only one aspect of their society.
-
 <!--page-->
+
+**Forsworn** — Tribal and political organization. Possess territorial claims, leadership structures, traditions, and diplomatic relations. Conduct raids and warfare as part of broader political and tribal objectives. Maintain religious elements centered around Hircine, but religion is only one aspect of their society.
 
 ## Current Situation
 
 Reports indicate that all known Forsworn clans have been instructed to stand down from hunting and raiding activities for approximately the past two weeks. This order appears to have been observed by the clans currently under observation.
 
-Additionally, a delegation of Forsworn reportedly entered **Markarth** seeking asylum, suggesting ongoing political developments within the Reach.
-
 <!--page-->
+
+Additionally, a delegation of Forsworn reportedly entered **Markarth** seeking asylum, suggesting ongoing political developments within the Reach.
 
 ## Forsworn Diplomacy
 

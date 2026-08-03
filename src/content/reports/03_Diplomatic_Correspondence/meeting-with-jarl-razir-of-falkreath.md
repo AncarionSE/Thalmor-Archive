@@ -12,8 +12,6 @@ order: 46
 **Reporting Officer:** Chief Administrator & Quartermaster Ancarion Saelthar
 **Subject:** Meeting with Jarl Razir of Falkreath
 
-<!--page-->
-
 Jarl **Razir of Falkreath** arrived at the Embassy accompanied by his guards and advisor in response to a note left by **Advisor Ariniel**, requesting an urgent meeting. The Jarl expressed dissatisfaction with the demanding tone of the message; however, I clarified that the urgency was likely the reason for its wording and that no disrespect had been intended. The matter was resolved amicably.
 
 <!--page-->

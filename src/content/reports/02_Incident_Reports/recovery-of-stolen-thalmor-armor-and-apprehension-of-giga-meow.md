@@ -13,8 +13,6 @@ order: 21
 **Location:** Whiterun
 **Subject:** Recovery of Stolen Thalmor Armor and Apprehension of Suspect
 
-<!--page-->
-
 ### Report
 
 Upon my arrival in **Whiterun**, I was met by the **Housecarl**, who informed me that a guard by the name of **Peryval**, with whom I am in close professional contact, had successfully apprehended the Khajiit responsible for stealing a set of Thalmor armor.
@@ -25,26 +23,24 @@ I subsequently made contact with Guard Peryval, who returned the stolen **Thalmo
 
 According to the information provided, the suspect had previously violated numerous laws and religious ordinances before reportedly escaping into the **Aetherium**. The circumstances surrounding this alleged escape remain unclear and require further clarification.
 
-<!--page-->
-
 ### Persons Mentioned
 
 - Peryval, Guard of Whiterun
 
-- Unnamed Housecarl of Whiterun
+<!--page-->
 
+- Unnamed Housecarl of Whiterun
 - Giga Meow, Khajiit bandit and theft suspect
 
 ### Property Recovered
 
 - One set of Thalmor Black Armor
 
-<!--page-->
-
 ### Outcome
 
 - Stolen Thalmor armor successfully recovered and returned.
-
 - Suspect identified as Giga Meow and presently in custody.
+
+<!--page-->
 
 - Further inquiry recommended regarding the suspect's previous activities and the reported escape into Aetherium.

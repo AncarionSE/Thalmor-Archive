@@ -21,9 +21,7 @@ The recruits and I engaged the assailants. Two brigands were eliminated during t
 Following the engagement, the deceased brigands were searched. The following items were recovered:
 
 - One Blacksmithing Potion
-
 - One Iron Greatsword
-
 - Two pieces of Leather Armor
 
 <!--page-->
@@ -35,8 +33,6 @@ The surviving brigand was last observed wearing Leather Armor, a Blue Cloak, and
 No Dominion personnel sustained injuries during the incident. All members of the patrol returned safely to the Embassy.
 
 **Submitted,**
-
-<!--page-->
 
 **Ancarion Saelthar**
 **Chief Administrator**

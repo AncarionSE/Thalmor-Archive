@@ -13,17 +13,15 @@ order: 36
 
 Recruits and soldiers,
 
-<!--page-->
-
 Many of you believe that serving the Dominion begins when you put on your armor and ends when you remove it. This is false. A soldier represents the Dominion at all times, whether in full armor, common clothes, a tavern, a marketplace, or while traveling between holds.
 
 A careless soldier can do more damage to the Dominion than an enemy ever could.
 
+<!--page-->
+
 ## Part I: The Purpose of Intelligence
 
 Information wins battles before swords are ever drawn.
-
-<!--page-->
 
 A single report can reveal a Talos gathering, a Daedric cult, an assassination plot, a shortage of strategic resources, political disputes between holds, or opportunities beneficial to the Dominion.
 
@@ -81,12 +79,10 @@ The greatest intelligence asset is not a spy. It is a disciplined soldier. A dis
 
 **Attendees:** Mars Corellon, Perosh (arrived late), Orion, Ak'Karim, Atillus of Sunhold, Sinil Thaothar.
 
-<!--page-->
-
 Attendees were instructed on the importance of accurate reporting, source reliability, observation of physical descriptions, and recording the who, what, when, where, and how of any incident. Special attention was given to conduct while out of uniform, professional demeanor with civilians, and avoiding unnecessary escalation with provocateurs. The importance of verification before action and prioritizing larger threats over minor disturbances was repeatedly stressed.
 
-**Atillus of Sunhold** was the most active and engaged participant, demonstrating strong understanding of the material.
-
 <!--page-->
+
+**Atillus of Sunhold** was the most active and engaged participant, demonstrating strong understanding of the material.
 
 **Assessment:** Lecture completed successfully. Further instruction on intelligence gathering and report writing is recommended.

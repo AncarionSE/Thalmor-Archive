@@ -23,18 +23,16 @@ Upon confronting the individual regarding the statement, he identified himself a
 
 The individual was escorted to the embassy for further questioning. Upon arrival, **Ambassador Helgrid** conducted the interrogation.
 
-<!--page-->
-
 During questioning, Olaf Warcrane agreed to comply with the imposed heresy tax. As part of the arrangement, he was assigned labor at the local sawmill and subsequently provided the required payment.
+
+<!--page-->
 
 The payment was successfully received by **Soldier Yhavana**, concluding the matter without further incident.
 
 ### Persons Mentioned
 
 - Olaf Warcrane
-
 - Ambassador Helgrid
-
 - Soldier Yhavana
 
 <!--page-->
@@ -46,11 +44,6 @@ The individual appeared cooperative throughout questioning and demonstrated a wi
 ### Outcome
 
 - Subject detained and questioned.
-
 - Heresy tax accepted and paid.
-
-<!--page-->
-
 - Payment confirmed by Soldier Yhavana.
-
 - No further action required at this time.

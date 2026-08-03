@@ -29,11 +29,11 @@ The detainee further stated that the group had been hired in **Markarth** by an 
 
 The surviving suspect remains imprisoned in the **Morthal Jail** pending a final decision from Lord Regent Sees-His-Scales regarding charges and punishment.
 
-<!--page-->
-
 ### Persons Mentioned
 
 - Lord Regent Sees-His-Scales
+
+<!--page-->
 
 - Unidentified human male employer
 
@@ -41,20 +41,16 @@ The surviving suspect remains imprisoned in the **Morthal Jail** pending a final
 
 - Northwind Company
 
-<!--page-->
-
 ### Assessment
 
 The statements provided by the detainee suggest a deliberate attempt to organize violence against both the Lord Regent and the citizens of Morthal. While the information regarding the employer remains unverified, the description provided may assist future identification efforts.
 
-Further questioning of the surviving suspect is recommended to determine the identity of the employer, the extent of Northwind Company involvement, and whether additional operatives remain active in the region.
-
 <!--page-->
+
+Further questioning of the surviving suspect is recommended to determine the identity of the employer, the extent of Northwind Company involvement, and whether additional operatives remain active in the region.
 
 ### Current Status
 
 - Three suspects deceased.
-
 - One suspect in custody.
-
 - Investigation ongoing.

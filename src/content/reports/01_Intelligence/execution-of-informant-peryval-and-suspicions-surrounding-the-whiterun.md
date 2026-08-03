@@ -14,13 +14,11 @@ order: 35
 
 While conducting a patrol across several holds, I arrived in **Whiterun** and met with **Dar'tesh**, a member of the Whiterun Guard with whom I have had previous dealings.
 
-<!--page-->
-
 During our conversation, I inquired about **Peryval**, an individual known to me and an informant who had previously provided information to our organization. Dar'tesh informed me that Peryval had been **executed earlier that morning by order of the High Court of Whiterun and the Jarl on charges of espionage**.
 
-Both Dar'tesh and Peryval's brother appeared extremely reluctant to discuss the matter. Dar'tesh explicitly stated that he did not wish to be involved and was unusually secretive regarding the circumstances surrounding the execution. Their behavior suggested a high degree of caution and concern when discussing the subject.
-
 <!--page-->
+
+Both Dar'tesh and Peryval's brother appeared extremely reluctant to discuss the matter. Dar'tesh explicitly stated that he did not wish to be involved and was unusually secretive regarding the circumstances surrounding the execution. Their behavior suggested a high degree of caution and concern when discussing the subject.
 
 The circumstances surrounding the execution raise concerns and warrant further attention. Previous reports have linked **Leo, Commander of the Whiterun Guard**, to possible Talos worship and potential ties to the Blades, though these allegations remain unconfirmed. While no direct connection can presently be established between those reports and Peryval's execution, the overall situation raises questions regarding the motivations and internal affairs of the Whiterun Court.
 

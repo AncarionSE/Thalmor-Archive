@@ -13,15 +13,13 @@ While on assignment to produce elven weaponry at the Solitude smithy, Soldier An
 
 Shortly after our arrival, a distressed citizen approached us and reported the presence of a troublemaker nearby. Upon investigation, we encountered a Nord openly praising Talos.
 
-<!--page-->
-
 I ordered the suspect to identify himself. He gave his name as Ulf. The suspect was apprehended and escorted to the embassy for questioning.
+
+<!--page-->
 
 ## Questioning
 
 While escorting the suspect, we encountered Administrator Helgrid, who took charge of the investigation upon arrival at the embassy.
-
-<!--page-->
 
 During questioning, Ulf refused to comply with the imposed fine and refused to provide information regarding any accomplices. He stated that Skyrim belonged to free people and accused us of racism.
 

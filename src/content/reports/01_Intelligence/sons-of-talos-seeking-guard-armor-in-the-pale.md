@@ -20,8 +20,6 @@ According to reports, the group has been actively seeking to acquire guard armor
 
 The group was last observed in **Dawnstar**, where they were reportedly questioning a local citizen in an attempt to obtain a set of Dawnstar guard clothing.
 
-<!--page-->
-
 ### Assessment
 
 The reported attempts to acquire official guard equipment suggest a possible effort to impersonate local authorities, conduct infiltration activities, or facilitate future operations while disguised as hold guards. Increased vigilance is recommended, and any suspicious individuals wearing Morthal or Dawnstar guard armor should be questioned regarding the origin of their equipment.

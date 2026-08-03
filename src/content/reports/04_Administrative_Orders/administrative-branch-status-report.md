@@ -13,39 +13,33 @@ order: 44
 
 The Administrative Branch continues to oversee logistics, procurement, personnel coordination, resource acquisition, and the Supply Corps in support of Dominion operations throughout Skyrim.
 
-<!--page-->
-
 ### Active Personnel
 
 **Aurandelus**
 
 - Miner and resource gatherer.
 
+<!--page-->
+
 - Actively surveys and secures mining routes.
-
 - Has been instrumental in locating and extracting Moonstone ore deposits despite increasing scarcity.
-
 - Regularly supplies Moonstone ore to Embassy stockpiles and reports on mining conditions and contested resource nodes.
 
 **Aranwynth**
 
-<!--page-->
-
 - Blacksmith and resource specialist.
-
 - Assists with equipment production and material acquisition.
-
 - Supports Embassy smithing operations through procurement, refining, and distribution of materials necessary for arms and armor production.
+
+<!--page-->
 
 **Balthasar**
 
 - Chef by trade.
-
 - Maintains numerous professional contacts and resource connections.
+- Provides valuable logistical support through networking, procurement opportunities, and civilian contacts that may benefit Dominion operations.
 
 <!--page-->
-
-- Provides valuable logistical support through networking, procurement opportunities, and civilian contacts that may benefit Dominion operations.
 
 ### Assessment
 

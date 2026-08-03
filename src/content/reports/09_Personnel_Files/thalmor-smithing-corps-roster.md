@@ -10,13 +10,11 @@ order: 51
 ## Master Blacksmiths
 
 - **Master Blacksmith Ancarion Saelthar**
-
 - **Master Blacksmith Aranwyth**
 
 ## Blacksmiths
 
 - **Blacksmith Vaelin Urmum**
-
 - **Blacksmith Ondarol**
 
 <!--page-->

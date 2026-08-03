@@ -21,22 +21,15 @@ The successful applicant will serve in a supporting capacity to the Chief Admini
 ### Duties
 
 - Prepare payroll records for review prior to weekly disbursement.
-
 - Maintain personnel files and administrative archives.
-
 - Record attendance, leave requests, and duty assignments.
-
 - Organize reports submitted by Embassy departments.
-
 - Schedule appointments and administrative meetings.
-
 - Prepare documents for signature and official approval.
+- Receive and route correspondence to the appropriate office.
+- Perform clerical and administrative tasks as assigned.
 
 <!--page-->
-
-- Receive and route correspondence to the appropriate office.
-
-- Perform clerical and administrative tasks as assigned.
 
 ### Responsibilities
 
@@ -44,23 +37,17 @@ The Administrative Assistant **does not possess independent administrative autho
 
 All payroll, appointments, promotions, disciplinary actions, procurement requests, and official correspondence remain subject to the approval of the **Chief Administrator**.
 
-<!--page-->
-
 The position exists solely to support the Office of the Chief Administrator by reducing routine clerical workload and maintaining orderly administrative records.
+
+<!--page-->
 
 ### Requirements
 
 - Loyalty to the Aldmeri Dominion.
-
 - Professional conduct.
-
 - Strong organizational ability.
-
 - Accurate record keeping.
-
 - Ability to maintain confidentiality.
-
-<!--page-->
 
 Applications shall be submitted directly to the **Office of Chief Administrator Ancarion Saelthar**.
 

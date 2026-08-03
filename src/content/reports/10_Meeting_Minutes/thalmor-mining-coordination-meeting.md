@@ -15,11 +15,8 @@ order: 42
 **Attendees:**
 
 - Mihir Vas Vihaan
-
 - Ma'anita Stormbreaker
-
 - Amorette Lovand'r
-
 - Aurandelus
 
 <!--page-->
@@ -51,21 +48,17 @@ Mining personnel have been instructed to gather intelligence regarding the organ
 Current objectives include:
 
 - Monitoring the activities of Markarth Steel.
-
 - Reporting interference with Dominion mining operations.
-
 - Sharing route information and mining intelligence.
+- Submitting regular yield reports.
 
 <!--page-->
-
-- Submitting regular yield reports.
 
 ### Yield Reports
 
 **Mihir Vas Vihaan**
 
 - 2 Moonstone Ore
-
 - 1 Orichalcum Ore
 
 **Aurandelus**
