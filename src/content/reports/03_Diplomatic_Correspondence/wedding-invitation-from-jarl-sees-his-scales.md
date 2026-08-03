@@ -22,6 +22,8 @@ Food and beverages will be provided by **The Moorside Inn**.
 
 A copy of the invitation has been forwarded for the attention of **First Emissary Malen and the Justiciars**.
 
+<!--page-->
+
 ### Assessment
 
 The invitation represents a continued positive relationship between the authorities of Morthal and Dominion personnel. Attendance may provide opportunities for diplomatic engagement and the gathering of regional political intelligence.

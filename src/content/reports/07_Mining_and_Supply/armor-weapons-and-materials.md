@@ -46,6 +46,8 @@ order: 23
 - 1,408x Falmer Arrows
 - 841x Iron Arrows
 
+<!--page-->
+
 ## Materials Acquired
 - 4x Quicksilver Ingots
 - 31x Leather
@@ -54,8 +56,6 @@ order: 23
 - 2x Lesser Soul Gems
 - 12x Salt
 - 2x Horker Meat
-
-<!--page-->
 
 ## Outstanding Material Requirements
 - 5x Moonstone Ingots owed by Jordan.

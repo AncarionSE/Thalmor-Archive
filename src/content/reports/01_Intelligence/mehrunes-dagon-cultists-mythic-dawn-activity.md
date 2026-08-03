@@ -20,6 +20,8 @@ According to reports, the cult previously operated from a castle in the region. 
 
 The cult is believed to conduct operations from shrines dedicated to Mehrunes Dagon, where they capture and sacrifice civilians. Reports further indicate that, on occasion, members of their own initiates are selected as sacrificial victims.
 
+<!--page-->
+
 ### Assessment
 
 The Mythic Dawn remains an active threat within the region despite the capture and escape of its leader. Their continued use of kidnapping and ritual sacrifice demonstrates both operational capability and ideological fanaticism. Increased surveillance of known shrines and suspected cult gathering sites is recommended.

@@ -19,6 +19,8 @@ He reported that an Argonian tailor known as **Sees-in-Dark**, residing in Rifte
 
 He further reported an elderly grey-haired Nord in Whiterun who was openly praising Talos. The individual was initially seen wearing rags before changing into green common clothing.
 
+<!--page-->
+
 Shortly after the informant departed, a hooded individual wearing what appeared to be iron armor concealed beneath robes and carrying a common bow was observed by Embassy soldiers hiding behind rocks overlooking the Embassy grounds. When challenged, the individual fled down the slopes toward Solitude and disappeared from sight. All Embassy personnel have been instructed to remain alert. Should the individual return to observe or approach the Embassy again, soldiers have been ordered to engage the suspect on sight.
 
 The information remains unverified and is submitted for further investigation.

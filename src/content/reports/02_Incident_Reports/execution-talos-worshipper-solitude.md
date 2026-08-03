@@ -15,8 +15,6 @@ Shortly after our arrival, a distressed citizen approached us and reported the p
 
 I ordered the suspect to identify himself. He gave his name as Ulf. The suspect was apprehended and escorted to the embassy for questioning.
 
-<!--page-->
-
 ## Questioning
 
 While escorting the suspect, we encountered Administrator Helgrid, who took charge of the investigation upon arrival at the embassy.

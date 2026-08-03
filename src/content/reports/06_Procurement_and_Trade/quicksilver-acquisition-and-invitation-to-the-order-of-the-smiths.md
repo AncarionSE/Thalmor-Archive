@@ -21,11 +21,11 @@ During the discussion, **Ma'nita**, identified as the Head Blacksmith of Dawnsta
 
 Ma'nita further stated that a **Justiciar** had previously instructed her to seek me out regarding the matter. Based on this information, I believe I have authorization to participate in the organization as both a representative of the Thalmor and a master blacksmith.
 
+<!--page-->
+
 ### Assessment
 
 The formation of a province-wide blacksmithing guild may provide valuable insight into ore production, resource distribution, trade networks, and industrial capabilities throughout Skyrim. Membership within the organization could offer opportunities for intelligence gathering and influence regarding the movement of strategic resources, particularly quicksilver, moonstone, and other valuable metals.
-
-<!--page-->
 
 ### Persons Mentioned
 - Ma'nita, Head Blacksmith of Dawnstar

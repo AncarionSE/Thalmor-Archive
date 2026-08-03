@@ -25,6 +25,8 @@ Upon returning to **Whiterun**, I located the Dunmer matching the description pr
 
 Unlike the previous suspect, the Dunmer agreed to pay the heresy fine and formally denounced Talos as divine.
 
+<!--page-->
+
 As the individual lacked the required sum of **100 gold**, the following property was confiscated in lieu of payment:
 
 - One full set of Northern Steel armor
@@ -32,8 +34,6 @@ As the individual lacked the required sum of **100 gold**, the following propert
 - One steel weapon
 
 The confiscated items were accepted as payment of the imposed fine.
-
-<!--page-->
 
 ### Persons Mentioned
 - Baron Papa Gribb

@@ -20,6 +20,8 @@ Following this exchange, I accompanied several Dominion soldiers and **Master Sm
 
 Lady Regent Bryn expressed considerable anger regarding the execution of Jarl Einar, stating that she had known him personally and describing the decision as **"abhorrent,"** citing what she perceived as only a brief period of trial before the execution was carried out.
 
+<!--page-->
+
 I explained that the Dominion's actions were conducted in accordance with the terms of the **White-Gold Concordat**, and assured her that our Diplomatic Branch would make every effort to address concerns raised by the various Holds and provide clarification where appropriate.
 
 Although the Lady Regent remained visibly distressed, she eventually apologized for her harsh reception, explaining that Dawnstar is currently facing significant internal difficulties, most notably the disappearance of the **Guardian of the Pale**.

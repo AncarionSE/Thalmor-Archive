@@ -30,9 +30,9 @@ The weekly payroll ledger has been reviewed and corrected. The following changes
 | Total Weekly Expense | 25,090 | **25,790 Septims** |
 | Estimated Balance | 16,740 | **16,040 Septims** |
 
-The increase of **700 Septims** reflects the previously omitted salary of the Chief Administrator.
-
 <!--page-->
+
+The increase of **700 Septims** reflects the previously omitted salary of the Chief Administrator.
 
 ### Personnel Roster Audit
 
@@ -45,6 +45,8 @@ The increase of **700 Septims** reflects the previously omitted salary of the Ch
 - **Elinwe Loraethel** is listed as Leave of Absence while recording 0.14 hours this period — status requires verification.
 - **Ja'Sharr the Unsighted** is ranked Recruit but personnel notes identify him as a Representative, a rank not present in the ledger tiers — clarification required.
 - Unusually high recorded hours for **Lorindar** (53.4h), **Akira** (50.2h), and **Althenar** (46.7h) should be reviewed for possible missed clock-outs, alongside already-flagged **Ak'karim** and **Fal Roland**.
+
+<!--page-->
 
 ### Cosmetic Items (left unchanged)
 

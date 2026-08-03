@@ -24,15 +24,17 @@ A single report can reveal a Talos gathering, a Daedric cult, an assassination p
 
 Your task is not merely to hear information. Your task is to observe, remember, and report. Always ask yourself: Who? What? Where? When? Why? How?
 
-A report that says, "A man was praising Talos," is nearly useless. A report that says, "An elderly Nord male with grey hair wearing green common clothing was openly praising Talos near the Whiterun market at midday," is useful. Details matter.
-
 <!--page-->
+
+A report that says, "A man was praising Talos," is nearly useless. A report that says, "An elderly Nord male with grey hair wearing green common clothing was openly praising Talos near the Whiterun market at midday," is useful. Details matter.
 
 ## Part II: Observation
 
 When entering a settlement, observe before speaking. Take note of new arrivals, armed individuals, political and religious discussions, unusual gatherings, distinctive clothing, and strange behavior.
 
 Many individuals reveal more by what they do than what they say. An individual constantly looking over his shoulder may be afraid. An individual asking too many questions may be gathering intelligence. An individual trying too hard to appear harmless may be concealing something. Observe first. Speak second.
+
+<!--page-->
 
 ## Part III: Speaking With Locals
 

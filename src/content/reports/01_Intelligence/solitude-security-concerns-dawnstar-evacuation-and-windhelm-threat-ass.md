@@ -21,9 +21,9 @@ As a result of the deteriorating security situation, an evacuation order has rep
 
 Thane Ursan Steelborn further stated that Solitude's leadership would only consider the region secure if Windhelm were removed from the control of its current rulers.
 
-Additionally, the Thane noted that territories associated with Windhelm possess considerable reserves of valuable ores, including **moonstone**, **quicksilver**, and **malachite**. He remarked that such resources could be claimed should Windhelm ultimately fall.
-
 <!--page-->
+
+Additionally, the Thane noted that territories associated with Windhelm possess considerable reserves of valuable ores, including **moonstone**, **quicksilver**, and **malachite**. He remarked that such resources could be claimed should Windhelm ultimately fall.
 
 ### Assessment
 

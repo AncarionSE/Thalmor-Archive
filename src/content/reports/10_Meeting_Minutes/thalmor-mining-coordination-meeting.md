@@ -55,11 +55,11 @@ Current objectives include:
 **Aurandelus**
 - 1 Moonstone Ore
 
-<!--page-->
-
 ### Dawnstar Resource Agreement
 
 An update was provided regarding negotiations with **Ma'anita Stormbreaker** and the **Temple of Zenithar**.
+
+<!--page-->
 
 A weekly supply arrangement is expected to provide up to 10 Refined Moonstone Ingots and 10 Quicksilver Ingots.
 

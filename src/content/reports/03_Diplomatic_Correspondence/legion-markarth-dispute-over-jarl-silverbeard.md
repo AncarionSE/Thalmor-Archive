@@ -20,6 +20,8 @@ Jarl Silverbeard denied all allegations regarding assassination attempts, statin
 
 Under the guidance of the High King, representatives of the Imperial Legion and Markarth reached an understanding regarding the matter. Both parties acknowledged the need for improved communication and coordination in future incidents to prevent similar disputes.
 
+<!--page-->
+
 During the proceedings, Dominion representatives were asked whether they held any grievances against the Jarl of Markarth concerning the situation. **Ambassador Akira** responded that the Thalmor had no complaints or objections regarding the matter.
 
 ### Assessment

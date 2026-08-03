@@ -25,6 +25,8 @@ A report concerning the bandit activity has been submitted to the authorities in
 
 The surviving brigand was last observed wearing Leather Armor, a Blue Cloak, and carrying a Scimitar.
 
+<!--page-->
+
 No Dominion personnel sustained injuries during the incident. All members of the patrol returned safely to the Embassy.
 
 **Submitted,**

@@ -17,9 +17,9 @@ Staff were instructed to actively engage with the wider community, establish pro
 
 Particular attention was given to Embassy miners. Miners have been instructed to report directly to the Administration regarding their mining routes, coordinate with fellow mining personnel, share knowledge and discoveries, and promptly report any obstacles, shortages, security concerns, or operational issues encountered during their work.
 
-Plans are currently underway to establish regular meetings with staff members in order to improve cooperation, define expectations, provide guidance regarding career progression, and monitor ongoing projects and achievements. The intention is to make these meetings a weekly occurrence.
-
 <!--page-->
+
+Plans are currently underway to establish regular meetings with staff members in order to improve cooperation, define expectations, provide guidance regarding career progression, and monitor ongoing projects and achievements. The intention is to make these meetings a weekly occurrence.
 
 ### Assessment
 

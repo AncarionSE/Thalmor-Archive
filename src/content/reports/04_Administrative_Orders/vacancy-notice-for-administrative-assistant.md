@@ -34,6 +34,8 @@ The Administrative Assistant **does not possess independent administrative autho
 
 All payroll, appointments, promotions, disciplinary actions, procurement requests, and official correspondence remain subject to the approval of the **Chief Administrator**.
 
+<!--page-->
+
 The position exists solely to support the Office of the Chief Administrator by reducing routine clerical workload and maintaining orderly administrative records.
 
 ### Requirements

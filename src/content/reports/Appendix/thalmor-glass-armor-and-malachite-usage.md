@@ -31,9 +31,9 @@ However, examination of Thalmor-issued glass armor suggests a different manufact
 
 It is possible that Altmeri smiths employ an alternative method of producing glass armor that bypasses the need for malachite altogether.
 
-If proven correct, this would explain both the visual differences between Dunmer and Thalmor glass armor and the apparent absence of malachite requirements in known Thalmor equipment.
-
 <!--page-->
+
+If proven correct, this would explain both the visual differences between Dunmer and Thalmor glass armor and the apparent absence of malachite requirements in known Thalmor equipment.
 
 ### Further Research Required
 

@@ -19,6 +19,8 @@ Additionally, I met with **Thane Cinderwood of Windhelm**, proprietor of the **C
 
 The Cinderwood Trading Company is also prepared to supply **wheat** at a rate of **2 gold septims per unit**, with trade expected to commence in the near future.
 
+<!--page-->
+
 ### Assessment
 
 The establishment of multiple supply partners significantly improves the Dominion's access to strategic resources and reduces dependence on individual suppliers. Regular access to Moonstone, Quicksilver, and agricultural goods will strengthen smithing operations, improve logistical stability, and support future equipment production requirements.

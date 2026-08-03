@@ -89,6 +89,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '07_mining_and_supply',
+    img: 'pickaxe.png',
     label: 'Mining &amp; Supply',
     spine: '#33322a',
     icon: mixed(
@@ -99,6 +100,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '08_training',
+    img: 'training-gear.png',
     label: 'Training',
     spine: '#2f3d2f',
     icon: mixed(
@@ -121,6 +123,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '10_meeting_minutes',
+    img: 'meeting-table.png',
     label: 'Meeting Minutes',
     spine: '#2e3a3a',
     icon: fill(
@@ -134,6 +137,7 @@ export const CATEGORIES: Category[] = [
   },
   {
     key: '11_ledger_audits',
+    img: 'ledger-book.png',
     label: 'Ledger Audits',
     spine: '#39301c',
     icon: fill('0 0 24 24', `<path d="M5 2h9l5 5v15H5Z"/>`),

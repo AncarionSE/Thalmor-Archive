@@ -31,6 +31,8 @@ The Administrative Branch continues to oversee logistics, procurement, personnel
 - Maintains numerous professional contacts and resource connections.
 - Provides valuable logistical support through networking, procurement opportunities, and civilian contacts that may benefit Dominion operations.
 
+<!--page-->
+
 ### Assessment
 
 While small in number, the Administrative Branch has established a reliable foundation for resource acquisition and logistical support. Continued cooperation between miners, craftsmen, and procurement personnel has significantly improved access to strategic materials, particularly Moonstone and other rare ores required for Dominion equipment production.

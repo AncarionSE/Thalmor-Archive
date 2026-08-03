@@ -18,6 +18,8 @@ During our conversation, I inquired about **Peryval**, an individual known to me
 
 Both Dar'tesh and Peryval's brother appeared extremely reluctant to discuss the matter. Dar'tesh explicitly stated that he did not wish to be involved and was unusually secretive regarding the circumstances surrounding the execution. Their behavior suggested a high degree of caution and concern when discussing the subject.
 
+<!--page-->
+
 The circumstances surrounding the execution raise concerns and warrant further attention. Previous reports have linked **Leo, Commander of the Whiterun Guard**, to possible Talos worship and potential ties to the Blades, though these allegations remain unconfirmed. While no direct connection can presently be established between those reports and Peryval's execution, the overall situation raises questions regarding the motivations and internal affairs of the Whiterun Court.
 
 In order to avoid drawing suspicion, I chose not to pursue the matter further during my visit. I later informed **Justiciar Lakkon** of the situation and, following his advice, limited further contact to Peryval's brother.

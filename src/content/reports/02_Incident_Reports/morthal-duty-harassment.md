@@ -13,11 +13,11 @@ During guard duty in Morthal, I, alongside Saurel, while assisting Lord Regent S
 
 As I and Saurel kept our silence and professionalism in front of the Lord Regent, he said to Saurel, "why are you using a steel weapon? is the Thalmor poor?" The Lord Regent then made a comment on our not answering back and how well trained we are as soldiers, but the issue remains with the filthy Nord's comments.
 
-<!--page-->
-
 ## Assessment
 
 The Nords grow bolder around nobility and need to be kept in place and not utter such remarks, or have their tongues cut out.
+
+<!--page-->
 
 As one of the main blacksmiths, I require access to the mining chests so that I can fulfil my work order duties of arming the soldiers with elven weaponry, if possible.
 

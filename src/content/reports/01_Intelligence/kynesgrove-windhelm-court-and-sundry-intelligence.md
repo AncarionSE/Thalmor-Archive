@@ -23,13 +23,13 @@ At the **Court of Windhelm**, **Jacenth** reported an individual named **Bjorn**
 ### 4. Disruptors Guild Meeting Request
 **Casseth Verethi**, head of the **Disruptors Guild**, requested an official meeting with **First Emissary Malen** regarding matters of magic. This request may warrant formal review before approval.
 
+<!--page-->
+
 ### 5. Report from Falon Kaeius
 **Falon Kaeius** reported **Falgrim Hammersmite** near **Shor's Bridge**, close to Riften. Falgrim was accused of open **Talos worship** and inciting violence against the Thalmor.
 
 ### 6. Legion Officer Report
 A Legion officer named **Aurelius** expressed interest in reporting a possible **Talos worshipper**. Follow-up is recommended to obtain names, location, and supporting details.
-
-<!--page-->
 
 ### 7. Recovered or Noted Item
 A **gold ruby circlet** was noted. Its ownership, origin, and relevance remain unclear.
@@ -43,6 +43,8 @@ The following names were recorded without full context and require clarification
 - **Vashu**
 - **Bomser**
 - **Bomadil**
+
+<!--page-->
 
 ### 9. Incident at Mor Khazgur
 The Orcs of **Mor Khazgur** became severely offended after **Malacath** was insulted. This led to a fight with a **Vigilant of Stendarr**. One Orc, identified as **Gork the Red**, declared that he was not afraid of elves and showed open hostility. The situation may indicate strong religious sensitivity among the Orcs and possible resistance to Thalmor authority.

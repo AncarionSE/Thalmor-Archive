@@ -18,11 +18,11 @@ During our discussion, Jarl Razir stated that he had been held in **Whiterun** f
 
 I informed the Jarl that I would consult with the Dominion's military leadership regarding the possibility of assisting Falkreath through additional patrols or the temporary deployment of soldiers to strengthen local security.
 
+<!--page-->
+
 The meeting concluded on positive terms, with the Jarl expressing satisfaction with the Embassy's hospitality and the clarification regarding Advisor Ariniel's correspondence.
 
 Further discussions were held regarding potential trade agreements. Jarl Razir indicated that Falkreath may be able to supply the Dominion with **Moonstone**, although no pricing or quantities were discussed. I intend to visit Falkreath in the near future to meet with local merchants and blacksmiths to explore procurement opportunities.
-
-<!--page-->
 
 ### Assessment
 

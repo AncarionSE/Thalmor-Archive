@@ -17,11 +17,11 @@ During discussions, the officials raised concerns regarding the current difficul
 
 Both officials expressed interest in holding a formal meeting with Dominion leadership, with the presence of a Justiciar requested, in order to discuss these matters further.
 
+<!--page-->
+
 As Administrator and Quartermaster, I am formally requesting updated information regarding the Dominion's current budget, resource allocations, and financial standing. Access to accurate figures will allow meaningful participation in future negotiations and ensure that any discussions are conducted in good faith and in the best interests of the Dominion.
 
 Based on the concerns raised during the meeting, there is a growing perception among certain Imperial officials that the Imperial Legion currently receives a disproportionate share of available funding and strategic resources, particularly regarding gold reserves and access to malachite.
-
-<!--page-->
 
 ### Assessment
 
