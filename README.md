@@ -1,6 +1,6 @@
-# The Embassy Archive
+# Canonreeve Archives
 
-The Embassy Archive is a static website that presents in-character Elder
+The Canonreeve Archives is a static website that presents in-character Elder
 Scrolls roleplay reports as readable in-game Skyrim books: aged parchment,
 two-page spreads, a turning leaf. It's an archive of Thalmor field
 intelligence reports from 4E 205 — new reports are added as Markdown files

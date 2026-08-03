@@ -6,12 +6,12 @@ const reports = (await getCollection('reports')).sort(
   (a, b) => b.data.order - a.data.order
 );
 ---
-<Base title="The Embassy Archive">
+<Base title="Canonreeve Archives">
   <main class="desk">
     <section class="ledger parchment" aria-label="Archive of filed reports">
       <header class="masthead">
-        <p class="over">Records of the Embassy</p>
-        <h1>The Archive</h1>
+        <p class="over">Thalmor Embassy &mdash; Skyrim</p>
+        <h1>Canonreeve Archives</h1>
         <div class="ornament" aria-hidden="true">
           <svg width="26" height="10" viewBox="0 0 26 10" fill="currentColor"><path d="M13 0l3.2 5L13 10 9.8 5 13 0zm-9 3.4L6.4 5 4 6.6 1.6 5 4 3.4zm18 0L24.4 5 22 6.6 19.6 5 22 3.4z"/></svg>
         </div>
@@ -34,7 +34,7 @@ const reports = (await getCollection('reports')).sort(
         ))}
       </ol>
 
-      <footer class="colophon">Filed and bound by the Quartermaster's office.</footer>
+      <footer class="colophon">Filed and bound by order of the Canonreeve.</footer>
     </section>
   </main>
 </Base>
