@@ -186,6 +186,10 @@ const { title, pages } = Astro.props;
 
   /* Title page */
   .title-page { justify-content: center; text-align: center; gap: .9rem; }
+  .title-page .insignia {
+    width: clamp(64px, 16vw, 96px); height: auto;
+    margin: 0 auto; color: var(--seal); opacity: .88;
+  }
   .title-page .classification {
     font-family: var(--font-caps); font-size: .8rem; letter-spacing: .28em;
     color: var(--seal); border: 1px solid var(--seal);

@@ -15,8 +15,15 @@ appear automatically.
 ## Project Conventions
 
 ### Content
-- One report = one file in `src/content/reports/*.md`
-- Frontmatter: `title`, `author`, `date` (in-world date string), `classification`, `summary`
+- One report = one file in `src/content/reports/<category>/*.md`, where
+  `<category>` is one of the twelve archive volumes (`01_Intelligence`,
+  `02_Incident_Reports`, `03_Diplomatic_Correspondence`,
+  `04_Administrative_Orders`, `05_Promotions_and_Appointments`,
+  `06_Procurement_and_Trade`, `07_Mining_and_Supply`, `08_Training`,
+  `09_Personnel_Files`, `10_Meeting_Minutes`, `11_Ledger_Audits`, `Appendix`)
+  defined in `src/lib/categories.ts`. The category a report belongs to is
+  derived from its folder, not a frontmatter field.
+- Frontmatter: `title`, `author`, `date` (in-world date string), `classification`, `summary`, `order`
 - Page breaks inside a report are explicit: a line containing only `<!--page-->`
 - The first page of a report body is treated as the title page (right-hand page of the first spread)
 

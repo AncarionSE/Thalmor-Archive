@@ -1,0 +1,66 @@
+---
+interface ReportEntry {
+  id: string;
+  data: {
+    title: string;
+    author: string;
+    date: string;
+    classification: string;
+    summary: string;
+  };
+}
+interface Props { reports: ReportEntry[] }
+const { reports } = Astro.props;
+---
+<ol class="entries" reversed>
+  {reports.map((r) => (
+    <li>
+      <a class="entry" href={`${import.meta.env.BASE_URL}reports/${r.id}/`}>
+        <div class="entry-line">
+          <span class="entry-title">{r.data.title}</span>
+          <span class="entry-date">{r.data.date}</span>
+        </div>
+        <p class="entry-summary">{r.data.summary}</p>
+        <p class="entry-meta">
+          {r.data.author} &middot; <span class="entry-class">{r.data.classification}</span>
+        </p>
+      </a>
+    </li>
+  ))}
+</ol>
+
+<style>
+  .entries {
+    list-style: none; margin: 1.6rem 0 0; padding: 0;
+    position: relative; z-index: 1;
+  }
+  .entries li + li { border-top: 1px solid rgba(106,86,60,.35); }
+  .entry {
+    display: block; padding: 1.1rem .4rem;
+    text-decoration: none; color: var(--ink);
+  }
+  .entry:hover .entry-title, .entry:focus-visible .entry-title {
+    color: var(--seal);
+  }
+  .entry-line {
+    display: flex; justify-content: space-between; gap: 1rem;
+    align-items: baseline;
+  }
+  .entry-title {
+    font-family: var(--font-display); font-weight: 600;
+    font-size: clamp(1rem, 2.4vw, 1.2rem); letter-spacing: .03em;
+  }
+  .entry-date {
+    font-family: var(--font-caps); letter-spacing: .14em;
+    color: var(--ink-faded); white-space: nowrap;
+  }
+  .entry-summary {
+    margin: .45rem 0 0; line-height: 1.5; color: var(--ink);
+    font-size: .98rem;
+  }
+  .entry-meta {
+    margin: .4rem 0 0; font-family: var(--font-caps);
+    font-size: .82rem; letter-spacing: .1em; color: var(--ink-faded);
+  }
+  .entry-class { color: var(--seal); }
+</style>

@@ -37,6 +37,11 @@ report title as a running head in small caps.
 - **WHEN** the reader is on the first spread
 - **THEN** the previous control is disabled and ArrowLeft does nothing
 
+### Requirement: Title page insignia
+The title page SHALL display an original Thalmor eagle mark above the
+classification stamp. The mark SHALL be hand-drawn SVG (no game assets),
+colored via the seal color token so it reads correctly against the parchment.
+
 ### Requirement: Typography
 Body text SHALL use an aged-print serif (IM Fell English). Titles and running
 heads SHALL use Cinzel / IM Fell English SC. Each content page's first
