@@ -1,4 +1,6 @@
 ---
+import { insignia } from '../lib/insignia';
+
 interface Props {
   title: string;
   pages: string[]; // page 0 = title page HTML, then content pages
@@ -9,7 +11,9 @@ const { title, pages } = Astro.props;
   <a class="return" href={import.meta.env.BASE_URL}>&larr; Return to the archive</a>
 
   <div class="book" data-book aria-label={`Book: ${title}`}>
-    <div class="board" data-board></div>
+    <div class="board" data-board>
+      <div class="board-emblem" set:html={insignia('cover')} />
+    </div>
     <div class="page page-left parchment">
       <button class="edge edge-left" data-prev aria-label="Previous page"></button>
       <div class="page-inner" data-slot="left" aria-live="polite"></div>
@@ -78,9 +82,14 @@ const { title, pages } = Astro.props;
       radial-gradient(ellipse at 30% 30%, #4a3520, #2c1e10 75%);
     box-shadow: inset 0 0 0 3px rgba(168,134,60,.35), inset 0 0 60px rgba(0,0,0,.6);
     display: none;
+    align-items: center; justify-content: center;
   }
-  .book.at-cover .board { display: block; }
+  .book.at-cover .board { display: flex; }
   .book.at-cover .page-left { visibility: hidden; }
+  .board-emblem {
+    width: 46%; filter: drop-shadow(0 6px 10px rgba(0,0,0,.65));
+  }
+  .board-emblem :global(svg) { width: 100%; height: auto; display: block; }
 
   .spine {
     width: 4px; align-self: stretch; z-index: 2;
@@ -188,7 +197,8 @@ const { title, pages } = Astro.props;
   .title-page { justify-content: center; text-align: center; gap: .9rem; }
   .title-page .insignia {
     width: clamp(64px, 16vw, 96px); height: auto;
-    margin: 0 auto; color: var(--seal); opacity: .88;
+    margin: 0 auto;
+    filter: drop-shadow(0 3px 4px rgba(74,52,22,.4));
   }
   .title-page .classification {
     font-family: var(--font-caps); font-size: .8rem; letter-spacing: .28em;

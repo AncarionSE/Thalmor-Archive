@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { marked } from 'marked';
 import Base from '../../layouts/Base.astro';
 import Book from '../../components/Book.astro';
+import { insignia } from '../../lib/insignia';
 
 export async function getStaticPaths() {
   const reports = await getCollection('reports');
@@ -17,24 +18,10 @@ const { title, author, date, classification } = report.data;
 
 const ornament = `<div class="ornament" aria-hidden="true"><svg width="26" height="10" viewBox="0 0 26 10" fill="currentColor"><path d="M13 0l3.2 5L13 10 9.8 5 13 0zm-9 3.4L6.4 5 4 6.6 1.6 5 4 3.4zm18 0L24.4 5 22 6.6 19.6 5 22 3.4z"/></svg></div>`;
 
-// Original heraldic eagle mark — no game assets, hand-drawn paths.
-// One solid faceted fan per wing (four points), mirrored around the body's
-// centerline so it reads as a clean silhouette at small sizes.
-const insignia = `<svg class="insignia" viewBox="0 0 200 140" aria-hidden="true">
-  <g fill="currentColor">
-    <circle cx="100" cy="16" r="9"/>
-    <path d="M93,12 L76,17 L93,23 Z"/>
-    <path d="M90,18 C82,26 78,38 78,52 L78,95 C78,110 88,122 100,128 C112,122 122,110 122,95 L122,52 C122,38 118,26 110,18 Z"/>
-    <path d="M92,120 L100,138 L108,120 Z"/>
-    <path id="rwing" d="M128.5,44.4 L161.8,8.2 L147.6,34.9 L178.3,23 L155.5,44.4 L186.5,43.9 L156,56.7 L181.6,65.5 L133.5,61.6 Z"/>
-    <use href="#rwing" transform="translate(200,0) scale(-1,1)"/>
-  </g>
-</svg>`;
-
 // Title page (page 0), generated from frontmatter
 const titlePage = `
   <div class="title-page" style="display:flex;flex-direction:column;flex:1">
-    ${insignia}
+    ${insignia('title')}
     <span class="classification">${classification}</span>
     <h1>${title}</h1>
     ${ornament}
