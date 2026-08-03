@@ -8,28 +8,35 @@ order: 57
 ---
 
 # Incident Report
+
 **Reporting Officer:** Chief Administrator Ancarion Saelthar
 **Accompanying Personnel:** Recruit Faba, Recruit Karanis
 
 While traveling to **Dragon Bridge** to pursue additional **Quicksilver trade opportunities**, and while en route to **Morthal**, our party was intercepted by **three brigands**. The individuals demanded the surrender of our valuables under threat of execution.
+
+<!--page-->
 
 The recruits and I engaged the assailants. Two brigands were eliminated during the engagement, while the third fled the scene. I ordered Recruit Faba and Recruit Karanis not to pursue the fleeing suspect beyond visual range in order to avoid a potential ambush and to maintain the safety of the patrol.
 
 Following the engagement, the deceased brigands were searched. The following items were recovered:
 
 - One Blacksmithing Potion
+
 - One Iron Greatsword
+
 - Two pieces of Leather Armor
+
+<!--page-->
 
 A report concerning the bandit activity has been submitted to the authorities in **Morthal** and to the **Imperial Legion**, requesting increased patrols along the road.
 
 The surviving brigand was last observed wearing Leather Armor, a Blue Cloak, and carrying a Scimitar.
 
-<!--page-->
-
 No Dominion personnel sustained injuries during the incident. All members of the patrol returned safely to the Embassy.
 
 **Submitted,**
+
+<!--page-->
 
 **Ancarion Saelthar**
 **Chief Administrator**

@@ -7,8 +7,6 @@ summary: "A status review of Militant and Diplomatic Wing personnel finding thre
 order: 55
 ---
 
-# Personnel Status Report
-
 ## Personnel Activity Review
 
 The following personnel have been reviewed based on their current roster status.
@@ -16,7 +14,11 @@ The following personnel have been reviewed based on their current roster status.
 ### Leave of Absence
 
 - **Black Talon Iwelien Loraenthal** remains on Leave of Absence until 1st of August.
+
 - **Senior Soldier Lilatha Sulinvaris** remains on Leave of Absence due to documented real-life commitments.
+
+<!--page-->
+
 - **Embassy Staff Elinwe Loraethel** remains on Leave of Absence.
 
 ### Absent Personnel
@@ -24,28 +26,49 @@ The following personnel have been reviewed based on their current roster status.
 The following members are currently listed as **Absent** and should be monitored for return to active service:
 
 - Elite Soldier **Rhaelym**
+
 - Senior Soldier **Iireussa Thilinaine**
+
 - Senior Soldier **Milinuen Thilinaine**
+
 - Junior Soldier **Saurel Athaine**
+
 - Embassy Staff **Braenor Winkle**
+
+<!--page-->
 
 ### Inactive Personnel
 
 **Diplomatic Wing**
+
 - Embassy Staff **Alazar Goldayne**
+
 - Embassy Staff **Soliron Highwatch**
+
 - Embassy Staff **Variel Starweaver**
 
 **Militant Wing**
+
 - Recruit **Aeloria Nuramor**
+
 - Recruit **Caelirion Nuramor**
+
 - Recruit **Elebor Nuramor**
+
+<!--page-->
+
 - Recruit **Elrond Thrandull**
+
 - Recruit **Glukhar Mongral**
+
 - Recruit **Gor'zan**
+
 - Recruit **Gwyn Nuramor**
+
 - Recruit **Incano Greyahl**
+
 - Recruit **Lolathus Nuramor**
+
 - Recruit **Solindil Nuramor**
 
 <!--page-->

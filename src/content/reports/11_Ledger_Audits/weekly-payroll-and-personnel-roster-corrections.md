@@ -7,9 +7,8 @@ summary: "An audit correcting 18 payroll formula cells (adding the Chief Adminis
 order: 54
 ---
 
-# Administrative Audit Report
-
 ## Payroll Ledger & Personnel Roster
+
 **Submitted to:** Chief Administrator Ancarion Saelthar
 
 ### Ledger Audit
@@ -17,9 +16,16 @@ order: 54
 The weekly payroll ledger has been reviewed and corrected. The following changes have been implemented:
 
 - Rewrote all **18 payroll formula cells** governing **Owed** and **Paid** calculations across all nine payroll tiers.
+
+<!--page-->
+
 - Added the **Chief Administrator** to the **Inspector / Advisor / Administrator** payroll tier. Owed: 1 → 2. Weekly Wages: 700 → 1,400 Septims. Paid Count: 0 → 1.
+
 - Corrected the **Recruit / Intern** payroll formula, which incorrectly referenced the Race column instead of Rank. Paid Count corrected to 6.
+
 - Converted all payroll ranges to open-ended references to ensure future personnel additions are automatically included.
+
+<!--page-->
 
 ### Financial Impact
 
@@ -37,21 +43,30 @@ The increase of **700 Septims** reflects the previously omitted salary of the Ch
 ### Personnel Roster Audit
 
 - Duplicate entry for **Lady Valynwe of House Velrith** removed: her Embassy Staff record merged into her Ambassador record, hours preserved, notes retained, duplicate deleted.
+
 - Seven entries with hidden formatting characters or trailing spaces were corrected: Nyssara, Andriala, Thaliel, Ondaril, Thaliel Hanil, Mihir Vas Vihaan, and Falandil Nuramor.
+
+<!--page-->
+
 - Three personnel updated from **Just Joined** to **ACTIVE** based on accumulated hours: Master Ad Larethire, Tsianna, Amandar.
 
 ### Administrative Review Required
 
 - **Elinwe Loraethel** is listed as Leave of Absence while recording 0.14 hours this period — status requires verification.
+
 - **Ja'Sharr the Unsighted** is ranked Recruit but personnel notes identify him as a Representative, a rank not present in the ledger tiers — clarification required.
-- Unusually high recorded hours for **Lorindar** (53.4h), **Akira** (50.2h), and **Althenar** (46.7h) should be reviewed for possible missed clock-outs, alongside already-flagged **Ak'karim** and **Fal Roland**.
 
 <!--page-->
+
+- Unusually high recorded hours for **Lorindar** (53.4h), **Akira** (50.2h), and **Althenar** (46.7h) should be reviewed for possible missed clock-outs, alongside already-flagged **Ak'karim** and **Fal Roland**.
 
 ### Cosmetic Items (left unchanged)
 
 - Duplicate "Current Balance" label adjacent to "Estimated Balance."
+
 - Empty "Names" summary column.
+
+<!--page-->
 
 ### Assessment
 

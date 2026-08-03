@@ -14,14 +14,18 @@ order: 27
 
 An unidentified Bosmer later identified as **Vega Azreal** was discovered at the Embassy gates. Upon being asked to identify himself, the individual immediately declared himself to be an "informant" in the presence of a high-ranking member of the Imperial Legion.
 
-Recognizing the security risk, I isolated the individual and reprimanded him for his complete lack of discretion and operational awareness. Despite this, Vega Azreal continued to insist that there was no reason to fear "men" and failed to demonstrate an understanding of the importance of secrecy when dealing with intelligence matters.
+<!--page-->
 
-The incident was reported to **Justiciar Lakkon**, who ordered that the individual be stripped of any association with the Thalmor and prohibited from interacting with Embassy personnel or approaching Embassy grounds in the future. Further instructions were given that should he attempt to return or involve himself with Thalmor affairs again, appropriate action would be taken.
+Recognizing the security risk, I isolated the individual and reprimanded him for his complete lack of discretion and operational awareness. Despite this, Vega Azreal continued to insist that there was no reason to fear "men" and failed to demonstrate an understanding of the importance of secrecy when dealing with intelligence matters.
 
 <!--page-->
 
+The incident was reported to **Justiciar Lakkon**, who ordered that the individual be stripped of any association with the Thalmor and prohibited from interacting with Embassy personnel or approaching Embassy grounds in the future. Further instructions were given that should he attempt to return or involve himself with Thalmor affairs again, appropriate action would be taken.
+
 **Subject Description:**
 Vega Azreal, Bosmer male, short stature, possessing one black eye and one reddish eye.
+
+<!--page-->
 
 ### Assessment
 

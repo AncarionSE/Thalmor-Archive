@@ -13,6 +13,8 @@ While traveling toward Dawnstar, I encountered fellow soldiers interacting with 
 
 I proceeded to investigate the inner parts of the city while interacting with the public undercover. During this time, I encountered a group of Dunmer. Among them was an individual wearing traditional Velothi clothing.
 
+<!--page-->
+
 After speaking with the individual, he invited me to the embassy located deeper within the inner city. I relayed the message and gift sent by First Emissary Indumoril.
 
 ## The Ambassador's Response

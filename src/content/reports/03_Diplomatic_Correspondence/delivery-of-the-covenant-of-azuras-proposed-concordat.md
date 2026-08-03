@@ -17,6 +17,8 @@ J'Ocelot, leader of the **Covenant of Azura**, arrived at the Embassy in respons
 
 As you were unavailable upon his arrival, he entrusted me with the draft Concordat for delivery. The document has been received into Embassy custody without incident and has been placed upon your desk for your review.
 
+<!--page-->
+
 No statements, commitments, or assurances were made on behalf of the Dominion. I informed J'Ocelot only that the proposal would be presented directly to you for consideration.
 
 Respectfully,

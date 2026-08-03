@@ -11,6 +11,8 @@ order: 2
 
 At approximately 3:26 AM, a Khajiit individual named Kus'sne, affiliated with the Markarth Militia, reported that he overheard several individuals praising the false divine near the Druadach Redoubt close to the Shrine of Peryite.
 
+<!--page-->
+
 According to Kus'sne, upon entering the hideout, he discovered a gathering of approximately five to ten individuals. Most were dressed in fine clothing or steel armor. Among those present, he specifically identified a grey-haired elderly Nordic man with a beard and a bald spot, dressed in fine clothing. He also described another individual wearing full steel armor and carrying weaponry, notable for what appeared to be a unique Forsworn-style horned helmet.
 
 Kus'sne stated that the remaining individuals within the hideout were, by his account, openly and brazenly engaged in Talos worship.
@@ -21,7 +23,11 @@ Kus'sne stated that the remaining individuals within the hideout were, by his ac
 
 While I was taking notes and speaking with Kus'sne, a bald-headed Nordic man wearing only a loincloth approached and attempted to report an Argonian allegedly praising Talos outside the embassy. He urgently insisted that I follow him to address the matter personally.
 
+<!--page-->
+
 His behavior was immediately suspicious and bore resemblance to known ambush or diversion tactics used by the Sons of Skyrim. When I informed him that I could take the information and handle the alleged Talos worshipper myself, he became visibly fidgety. Shortly after, he shouted, "Praise Talos!" and fled the area.
+
+<!--page-->
 
 ## Closing Notes
 

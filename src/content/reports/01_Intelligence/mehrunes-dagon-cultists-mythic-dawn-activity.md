@@ -16,6 +16,8 @@ Intelligence has been gathered regarding the activities of **Mehrunes Dagon cult
 
 The cult's members are reportedly identifiable by their distinctive red robes, red boots, and blood-red attire. Their leader is described as wearing unusual orange robes.
 
+<!--page-->
+
 According to reports, the cult previously operated from a castle in the region. The leader was apprehended by the **Warden of the Pale** with assistance from the **Vigilants of Stendarr** and the **Crimson Guard**, but subsequently escaped custody by leaping from a cliff during transport.
 
 The cult is believed to conduct operations from shrines dedicated to Mehrunes Dagon, where they capture and sacrifice civilians. Reports further indicate that, on occasion, members of their own initiates are selected as sacrificial victims.

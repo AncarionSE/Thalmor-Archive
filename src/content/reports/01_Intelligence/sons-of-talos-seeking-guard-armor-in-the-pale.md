@@ -16,7 +16,11 @@ Intelligence has been received regarding individuals believed to be affiliated w
 
 According to reports, the group has been actively seeking to acquire guard armor belonging to both **Morthal** and **Dawnstar**. Their most recent known location was **Brighthammer**.
 
+<!--page-->
+
 The group was last observed in **Dawnstar**, where they were reportedly questioning a local citizen in an attempt to obtain a set of Dawnstar guard clothing.
+
+<!--page-->
 
 ### Assessment
 

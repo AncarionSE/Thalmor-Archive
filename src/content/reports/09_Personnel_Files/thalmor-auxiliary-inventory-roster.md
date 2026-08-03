@@ -8,6 +8,7 @@ order: 22
 ---
 
 # Thalmor Auxiliary Inventory Roster
+
 **Compiled by:** Officer & Quartermaster Ancarion Saelthar
 
 <!--page-->
@@ -19,25 +20,50 @@ order: 22
 | 1 | Ancotar | Military Leave of Absence | Unknown |
 | 2 | Lilatha | Leave of Absence | Unknown |
 | 3 | Adamar | Unknown | Unknown |
+
+<!--page-->
+
+| No. | Name | Status | Armor Status |
+|-----|------|---------|---------------|
 | 4 | Alaren | Active | Did not receive armor |
 | 5 | Anchadno | Unknown | Unknown |
 | 6 | Aranwyth | Active | Does not possess armor |
 | 7 | Arendor | Unknown | Unknown |
 | 8 | Calastor | Active | Has armor |
 | 9 | Canis | Active | Has armor |
+
+<!--page-->
+
+| No. | Name | Status | Armor Status |
+|-----|------|---------|---------------|
 | 10 | Faelrion Aranthor | Unknown | Unknown |
 | 11 | Falcril | Active | Has armor |
 | 12 | Fingil | Absent | Possibly has armor |
 | 13 | Hinadril | Absent | Possibly has armor |
+
+<!--page-->
+
+| No. | Name | Status | Armor Status |
+|-----|------|---------|---------------|
 | 14 | Leiurrsa & Millunien | Active | Have armor |
 | 15 | Nenrume | Absent | Has armor |
 | 16 | Ocato Vorian | Absent | Possibly has armor |
 | 17 | Nirlith | Active | Has black armor |
+
+<!--page-->
+
+| No. | Name | Status | Armor Status |
+|-----|------|---------|---------------|
 | 18 | Brenothar | Active | Has black armor |
 | 19 | Saurel | Absent | Has armor |
 | 20 | Rinion | Absent | Has armor |
 | 21 | Lira (Aurora) | Active | Has armor |
 | 22 | Mars Corellon | Active | Has armor |
+
+<!--page-->
+
+| No. | Name | Status | Armor Status |
+|-----|------|---------|---------------|
 | 23 | Sylas Aedal | Absent | Armor status unknown |
 | 24 | Vaeloria | Absent | Armor status unknown |
 | 25 | Valmir | Absent | Armor status unknown |
@@ -54,6 +80,11 @@ order: 22
 | Alariel | Has armor | - |
 | Ancario | Has armor | - |
 | Andriala | Has armor | Armor and boots recently replaced |
+
+<!--page-->
+
+| Name | Armor Status | Notes |
+|------|---------------|--------|
 | Yhavana | Has armor | - |
 | Havi | Has armor | Armor recently replaced |
 | Iwelien | Has armor | - |
@@ -65,11 +96,18 @@ order: 22
 **Personnel without armor:** 2
 **Personnel with unknown or unverified equipment status:** 9+
 
+<!--page-->
+
 **Action Items:**
+
 1. Verify equipment status of all absent and unknown personnel.
+
 2. Issue armor to Alaren and Aranwyth if available.
+
 3. Confirm whether Pelnora has retained any equipment prior to receiving the soldier role.
+
 4. Maintain records of replacement equipment issued to officers.
+
 5. Conduct a full inventory inspection upon return of absent personnel.
 
 **Officer & Quartermaster:**

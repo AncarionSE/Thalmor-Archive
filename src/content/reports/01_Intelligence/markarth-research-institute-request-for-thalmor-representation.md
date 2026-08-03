@@ -17,11 +17,15 @@ order: 15
 
 Information was received from **Lauren Lethron**, Head Mechanist of the **Markarth Research Institute**, currently residing within the museum in Markarth.
 
+<!--page-->
+
 Lauren Lethron formally requested Thalmor representation at a meeting scheduled for **3:00 PM Skyrim time tomorrow**.
 
 The stated subject of the meeting concerns the growing number of individuals fleeing the ongoing civil conflict and taking refuge within **Blackreach**, as well as concerns regarding a potential **Third Convergence** and matters relating to the **Dwemer**.
 
 Lauren Lethron also indicated that the embassy may have a vested interest in the research and discussions to be presented during the meeting.
+
+<!--page-->
 
 ### Assessment
 
@@ -32,13 +36,21 @@ Attendance by a qualified representative is recommended to determine the validit
 <!--page-->
 
 ### Persons Mentioned
+
 - Lauren Lethron, Head Mechanist, Markarth Research Institute
 
 ### Location
+
 - Markarth Museum
+
 - Blackreach
 
 ### Recommended Action
+
 - Notify embassy leadership of the invitation.
+
+<!--page-->
+
 - Consider assigning an observer or representative to attend the meeting.
+
 - Gather additional intelligence regarding the reported Third Convergence and any associated Dwemer research.

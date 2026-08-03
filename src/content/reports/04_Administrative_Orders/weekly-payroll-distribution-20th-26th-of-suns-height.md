@@ -19,6 +19,8 @@ through
 
 All payments shall be collected no later than the posted deadline.
 
+<!--page-->
+
 Personnel are expected to report in an orderly manner. Any discrepancies regarding wages, attendance, or payroll records shall be brought to the attention of the Quartermaster or Chief Administrator, as those in charge of payments.
 
 For the order and efficiency of the Dominion.

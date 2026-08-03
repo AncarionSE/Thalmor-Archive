@@ -15,6 +15,8 @@ order: 25
 
 A Bosmer identifying himself as **Petry Shadowsworn** offered to act as an informant but declined formal enlistment in the Thalmor and refused to use the Embassy's pigeon courier system.
 
+<!--page-->
+
 He reported that an Argonian tailor known as **Sees-in-Dark**, residing in Riften, was attempting to recruit individuals to attack the Thalmor Embassy. The suspect was described as wearing dark blue common clothing, carrying a scimitar, and accompanied by a masked Khajiit.
 
 He further reported an elderly grey-haired Nord in Whiterun who was openly praising Talos. The individual was initially seen wearing rags before changing into green common clothing.

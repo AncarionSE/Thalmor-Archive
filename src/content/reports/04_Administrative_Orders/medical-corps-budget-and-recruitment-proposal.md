@@ -15,7 +15,11 @@ Met with **Rivi**, head of the Dominion's medical staff, to discuss medical prep
 
 Following discussion and calculations provided by Rivi, a proposed **weekly budget allocation of 500 gold** was recommended to support medical services, ingredient procurement, and emergency stockpiling efforts.
 
+<!--page-->
+
 Additionally, plans were discussed to coordinate with resident alchemists in order to assist with the acquisition of ingredients and the production of potions. The objective is to maintain a reserve of medical supplies capable of supporting Dominion personnel during large-scale engagements, emergencies, and periods of increased operational activity.
+
+<!--page-->
 
 ### Assessment
 

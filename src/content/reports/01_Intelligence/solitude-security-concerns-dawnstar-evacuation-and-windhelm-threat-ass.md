@@ -13,9 +13,13 @@ order: 14
 **Location:** Solitude
 **Subject:** Solitude Security Concerns, Dawnstar Evacuation, and Windhelm Threat Assessment
 
+<!--page-->
+
 ### Report
 
 Upon meeting with **Thane Ursan Steelborn** in Solitude, I was informed of recent security concerns regarding attacks conducted by Orc clans, specifically **Morkazgur**, and their proximity to local forts. According to the Thane, there are concerns that these forces may be acting in coordination with elements aligned with **Windhelm**.
+
+<!--page-->
 
 As a result of the deteriorating security situation, an evacuation order has reportedly been enacted for the city of **Dawnstar**. Citizens of Dawnstar are currently residing within **Solitude** as refugees until further notice or until a resolution is reached regarding the ongoing tensions involving Windhelm.
 
@@ -24,6 +28,8 @@ Thane Ursan Steelborn further stated that Solitude's leadership would only consi
 <!--page-->
 
 Additionally, the Thane noted that territories associated with Windhelm possess considerable reserves of valuable ores, including **moonstone**, **quicksilver**, and **malachite**. He remarked that such resources could be claimed should Windhelm ultimately fall.
+
+<!--page-->
 
 ### Assessment
 

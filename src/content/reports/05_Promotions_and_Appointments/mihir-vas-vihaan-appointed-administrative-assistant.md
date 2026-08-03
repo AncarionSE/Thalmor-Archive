@@ -7,13 +7,13 @@ summary: "Following a formal interview process, Mihir Vas Vihaan was appointed A
 order: 58
 ---
 
-# Administrative Announcement
-
 ## Appointment of Administrative Assistant
 
 By order of the Office of the Chief Administrator, **Mihir Vas Vihaan** is hereby appointed **Administrative Assistant**, effective immediately.
 
 Following a formal interview and review, Mihir Vas Vihaan has been selected to assist the Administrative Branch in the execution of routine administrative duties.
+
+<!--page-->
 
 His responsibilities include assisting with payroll preparation, personnel records, administrative archives, scheduling, and clerical support under the direction of the Chief Administrator.
 
@@ -22,6 +22,8 @@ This appointment does **not** grant independent administrative authority.
 Personnel are directed to cooperate with Mihir Vas Vihaan in the performance of his assigned duties.
 
 **Signed,**
+
+<!--page-->
 
 **Ancarion Saelthar**
 **Chief Administrator**

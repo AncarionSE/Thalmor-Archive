@@ -11,11 +11,15 @@ order: 3
 
 On my travel incognito, I happened to meet a person who identifies himself as Koltvar Garlund. He basically said that he is a mercenary after introducing himself to me, and complains about the behavior of the Whiterun Guard as they stopped him from mentioning Talos.
 
+<!--page-->
+
 As we were working the haystack near Whiterun, he kept singing, "I praise Talos! I praise Talos!" in a merry singing voice, calling the White Guards pushovers and tools. He also mentioned that he's a mercenary for hire and that he works for people that want security, in a sense. He is dressed in chainmail Nordic armor and wields a two-handed steel sword.
 
 <!--page-->
 
 He also mentioned that he greatly likes the Hold of Windhelm, and that he likes the people running the place over there and how they are not as tools as the people of Whiterun, and that he will mainly have residents over there instead of Whiterun. I did not introduce myself to the heretic, so as not to have my name known to him in the future — this was done to preserve my cover.
+
+<!--page-->
 
 ## Remarks
 

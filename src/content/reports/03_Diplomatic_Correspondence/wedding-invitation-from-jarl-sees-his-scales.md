@@ -14,15 +14,17 @@ order: 28
 
 While conducting a patrol across Skyrim to investigate reports of individuals impersonating Thalmor personnel, I met with **Jarl Sees-His-Scales of Morthal**.
 
+<!--page-->
+
 During our meeting, the Jarl formally extended an invitation to his wedding, scheduled to take place on **Friday, 3rd of July, 4:30 PM**. The invitation is intended for **First Emissary Malen and the Justiciars** and permits each invited guest to bring one additional companion and their personal Housecarl.
 
 The Jarl stated that attendance will be restricted to invited guests and residents of Morthal within the hall to prevent overcrowding. Any additional members of a guest's party will be required to remain outside the venue.
 
 Food and beverages will be provided by **The Moorside Inn**.
 
-A copy of the invitation has been forwarded for the attention of **First Emissary Malen and the Justiciars**.
-
 <!--page-->
+
+A copy of the invitation has been forwarded for the attention of **First Emissary Malen and the Justiciars**.
 
 ### Assessment
 

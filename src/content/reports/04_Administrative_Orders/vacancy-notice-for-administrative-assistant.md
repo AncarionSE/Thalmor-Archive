@@ -7,9 +7,8 @@ summary: "A job posting for an Administrative Assistant to support (not replace)
 order: 52
 ---
 
-# Administrative Notice
-
 ## Vacancy: Administrative Assistant
+
 **Office of the Chief Administrator**
 **Thalmor Embassy**
 
@@ -17,15 +16,26 @@ The Office of the Chief Administrator is accepting applications for the position
 
 The successful applicant will serve in a supporting capacity to the Chief Administrator, assisting with routine administrative functions to ensure the efficient operation of the Administrative Branch.
 
+<!--page-->
+
 ### Duties
 
 - Prepare payroll records for review prior to weekly disbursement.
+
 - Maintain personnel files and administrative archives.
+
 - Record attendance, leave requests, and duty assignments.
+
 - Organize reports submitted by Embassy departments.
+
 - Schedule appointments and administrative meetings.
+
 - Prepare documents for signature and official approval.
+
+<!--page-->
+
 - Receive and route correspondence to the appropriate office.
+
 - Perform clerical and administrative tasks as assigned.
 
 ### Responsibilities
@@ -41,10 +51,16 @@ The position exists solely to support the Office of the Chief Administrator by r
 ### Requirements
 
 - Loyalty to the Aldmeri Dominion.
+
 - Professional conduct.
+
 - Strong organizational ability.
+
 - Accurate record keeping.
+
 - Ability to maintain confidentiality.
+
+<!--page-->
 
 Applications shall be submitted directly to the **Office of Chief Administrator Ancarion Saelthar**.
 

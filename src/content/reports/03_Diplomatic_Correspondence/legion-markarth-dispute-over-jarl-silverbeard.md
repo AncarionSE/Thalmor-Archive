@@ -14,15 +14,19 @@ order: 33
 
 A dispute between the **Imperial Legion** and **Jarl Silverbeard of Markarth** was brought before the **High King** for mediation.
 
+<!--page-->
+
 The Imperial Legion alleged that Jarl Silverbeard had placed bounties or assassination contracts against several members of Imperial high command. Additional tensions arose surrounding the apprehension of **Dargeema**, who was taken into Imperial custody outside Markarth despite requests that the prisoner be returned to local authorities.
 
 Jarl Silverbeard denied all allegations regarding assassination attempts, stating that the accusations may have been fabricated to damage his reputation and standing.
 
-Under the guidance of the High King, representatives of the Imperial Legion and Markarth reached an understanding regarding the matter. Both parties acknowledged the need for improved communication and coordination in future incidents to prevent similar disputes.
-
 <!--page-->
 
+Under the guidance of the High King, representatives of the Imperial Legion and Markarth reached an understanding regarding the matter. Both parties acknowledged the need for improved communication and coordination in future incidents to prevent similar disputes.
+
 During the proceedings, Dominion representatives were asked whether they held any grievances against the Jarl of Markarth concerning the situation. **Ambassador Akira** responded that the Thalmor had no complaints or objections regarding the matter.
+
+<!--page-->
 
 ### Assessment
 

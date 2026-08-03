@@ -8,11 +8,16 @@ order: 59
 ---
 
 # Intelligence Report
+
 **Classification:** Eyes of High Justiciar Lakkon Only
 
 Information received from our contact **Sophia** indicates growing concerns regarding **Recruit Valyn Valmont**.
 
+<!--page-->
+
 According to our source, the recruit has been observed operating alongside individuals believed to be affiliated with a **Molag Bal cult**. Independent reports further indicate that the Legion has also become aware of these alleged associations while the recruit remains a member of the Thalmor, creating a potential reputational and security concern.
+
+<!--page-->
 
 In addition, the recruit has recently demonstrated the use of **advanced Destruction magic** beyond what would ordinarily be expected of a recruit. While not evidence in itself, the sudden acquisition of such capability further warrants investigation when considered alongside the aforementioned reports.
 
@@ -23,6 +28,8 @@ Our contact has arranged a meeting with Recruit Valyn Valmont under the pretense
 I recommend that the apprehension be conducted discreetly and without public spectacle. Once secured, the recruit should be thoroughly interrogated regarding his alleged dealings with the Molag Bal cult, the source of his recent activities, and any additional associates or contacts.
 
 It should also be noted that Recruit Valyn Valmont has previously disseminated false information concerning the **Jarl of Falkreath**, at a time when relations with both the Legion and the Holds remain particularly sensitive. Such conduct has the potential to further damage the reputation of the Embassy.
+
+<!--page-->
 
 **Personal Observations**
 

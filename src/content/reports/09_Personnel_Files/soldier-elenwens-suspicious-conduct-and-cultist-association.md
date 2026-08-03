@@ -16,9 +16,13 @@ Information was received regarding **Elenwen**, a recently inducted soldier of t
 
 According to reports, Elenwen was observed at **Castle Wraithmor** interacting with individuals identified as cultists of **Mehrunes Dagon**. During the incident, he was reportedly impersonating a member of the **Dragonsguard**.
 
+<!--page-->
+
 Additional concerns were raised by **Chadiminus**, the tailor of Solitude, who reported being personally harassed by Elenwen on multiple occasions. Chadiminus was the individual who brought the matter to attention.
 
 The soldier had previously displayed erratic behavior and had repeatedly expressed an unusual fixation on obtaining a set of **Black Thalmor Armor**.
+
+<!--page-->
 
 ### Assessment
 

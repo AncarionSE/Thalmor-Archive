@@ -7,13 +7,13 @@ summary: "Master Blacksmith Aranwynth was promoted to Quartermaster in recogniti
 order: 53
 ---
 
-# Administrative Announcement
-
 ## Promotion of Aranwynth
 
 By order of the Office of the Chief Administrator, **Master Blacksmith Aranwynth** is hereby promoted to the position of **Quartermaster**, effective immediately.
 
 This appointment is made in recognition of his diligence, discipline, and unwavering dedication to the Aldmeri Dominion. Through consistent service and proven reliability, Aranwynth has demonstrated the competence and professionalism required of an officer entrusted with the stewardship of Embassy resources.
+
+<!--page-->
 
 As Quartermaster, Aranwynth is charged with the accountability, maintenance, and distribution of Embassy equipment, supplies, and logistical assets, and shall execute these duties in accordance with the directives of the Administrative Branch.
 
