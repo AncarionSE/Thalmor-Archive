@@ -1,0 +1,17 @@
+{
+  "name": "thalmor-archive",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@fontsource/cinzel": "^5.1.0",
+    "@fontsource/im-fell-english": "^5.1.0",
+    "@fontsource/im-fell-english-sc": "^5.1.0",
+    "astro": "^5.0.0",
+    "marked": "^18.0.7"
+  }
+}

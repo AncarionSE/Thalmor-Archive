@@ -1,0 +1,104 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const reports = (await getCollection('reports')).sort(
+  (a, b) => b.data.order - a.data.order
+);
+---
+<Base title="The Embassy Archive">
+  <main class="desk">
+    <section class="ledger parchment" aria-label="Archive of filed reports">
+      <header class="masthead">
+        <p class="over">Records of the Embassy</p>
+        <h1>The Archive</h1>
+        <div class="ornament" aria-hidden="true">
+          <svg width="26" height="10" viewBox="0 0 26 10" fill="currentColor"><path d="M13 0l3.2 5L13 10 9.8 5 13 0zm-9 3.4L6.4 5 4 6.6 1.6 5 4 3.4zm18 0L24.4 5 22 6.6 19.6 5 22 3.4z"/></svg>
+        </div>
+      </header>
+
+      <ol class="entries" reversed>
+        {reports.map((r) => (
+          <li>
+            <a class="entry" href={`${import.meta.env.BASE_URL}reports/${r.id}/`}>
+              <div class="entry-line">
+                <span class="entry-title">{r.data.title}</span>
+                <span class="entry-date">{r.data.date}</span>
+              </div>
+              <p class="entry-summary">{r.data.summary}</p>
+              <p class="entry-meta">
+                {r.data.author} &middot; <span class="entry-class">{r.data.classification}</span>
+              </p>
+            </a>
+          </li>
+        ))}
+      </ol>
+
+      <footer class="colophon">Filed and bound by the Quartermaster's office.</footer>
+    </section>
+  </main>
+</Base>
+
+<style>
+  .desk {
+    min-height: 100vh;
+    display: grid; place-items: center;
+    padding: 3rem 1rem;
+  }
+  .ledger {
+    width: min(680px, 94vw);
+    padding: clamp(1.6rem, 4vw, 3.2rem);
+    border-radius: 4px;
+    box-shadow: 0 30px 50px rgba(0,0,0,.6), inset 0 0 46px rgba(94,66,28,.35);
+  }
+  .masthead { text-align: center; position: relative; z-index: 1; }
+  .over {
+    font-family: var(--font-caps); letter-spacing: .3em; font-size: .8rem;
+    color: var(--ink-faded); margin: 0 0 .4rem;
+  }
+  h1 {
+    font-family: var(--font-display); font-weight: 600;
+    font-size: clamp(1.8rem, 4.5vw, 2.6rem); letter-spacing: .08em;
+    margin: 0 0 .6rem; color: var(--ink);
+  }
+  .masthead .ornament { justify-content: center; }
+
+  .entries {
+    list-style: none; margin: 1.6rem 0 0; padding: 0;
+    position: relative; z-index: 1;
+  }
+  .entries li + li { border-top: 1px solid rgba(106,86,60,.35); }
+  .entry {
+    display: block; padding: 1.1rem .4rem;
+    text-decoration: none; color: var(--ink);
+  }
+  .entry:hover .entry-title, .entry:focus-visible .entry-title {
+    color: var(--seal);
+  }
+  .entry-line {
+    display: flex; justify-content: space-between; gap: 1rem;
+    align-items: baseline;
+  }
+  .entry-title {
+    font-family: var(--font-display); font-weight: 600;
+    font-size: clamp(1rem, 2.4vw, 1.2rem); letter-spacing: .03em;
+  }
+  .entry-date {
+    font-family: var(--font-caps); letter-spacing: .14em;
+    color: var(--ink-faded); white-space: nowrap;
+  }
+  .entry-summary {
+    margin: .45rem 0 0; line-height: 1.5; color: var(--ink);
+    font-size: .98rem;
+  }
+  .entry-meta {
+    margin: .4rem 0 0; font-family: var(--font-caps);
+    font-size: .82rem; letter-spacing: .1em; color: var(--ink-faded);
+  }
+  .entry-class { color: var(--seal); }
+
+  .colophon {
+    margin-top: 2rem; text-align: center; font-style: italic;
+    color: var(--ink-faded); position: relative; z-index: 1;
+  }
+</style>

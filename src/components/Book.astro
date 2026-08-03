@@ -1,0 +1,321 @@
+---
+interface Props {
+  title: string;
+  pages: string[]; // page 0 = title page HTML, then content pages
+}
+const { title, pages } = Astro.props;
+---
+<div class="room">
+  <a class="return" href={import.meta.env.BASE_URL}>&larr; Return to the archive</a>
+
+  <div class="book" data-book aria-label={`Book: ${title}`}>
+    <div class="board" data-board></div>
+    <div class="page page-left parchment">
+      <button class="edge edge-left" data-prev aria-label="Previous page"></button>
+      <div class="page-inner" data-slot="left" aria-live="polite"></div>
+    </div>
+    <div class="spine" aria-hidden="true"></div>
+    <div class="page page-right parchment">
+      <button class="edge edge-right" data-next aria-label="Next page"></button>
+      <div class="page-inner" data-slot="right" aria-live="polite"></div>
+    </div>
+    <div class="leaf" data-leaf hidden aria-hidden="true">
+      <div class="leaf-face leaf-front parchment"><div class="page-inner" data-slot="lf"></div></div>
+      <div class="leaf-face leaf-back parchment"><div class="page-inner" data-slot="lb"></div></div>
+    </div>
+  </div>
+
+  <nav class="book-nav" aria-label="Book navigation">
+    <button class="nav-btn" data-prev>&#10094;&nbsp; Previous</button>
+    <span class="nav-pos" data-pos></span>
+    <button class="nav-btn" data-next>Next &nbsp;&#10095;</button>
+  </nav>
+
+  <template data-pages>
+    {pages.map((html) => <div class="page-body" set:html={html} />)}
+  </template>
+</div>
+
+<style>
+  .room {
+    min-height: 100vh;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    gap: 1.1rem; padding: 2rem 1rem 2.5rem;
+  }
+  .return {
+    align-self: flex-start;
+    font-family: var(--font-caps);
+    font-size: .95rem; letter-spacing: .08em;
+    color: var(--parchment-edge); text-decoration: none;
+  }
+  .return:hover { color: var(--parchment); }
+
+  /* ── The book ── */
+  .book {
+    position: relative;
+    display: flex;
+    perspective: 2400px;
+    filter: drop-shadow(0 26px 34px rgba(0,0,0,.65));
+  }
+  .page, .board {
+    width: min(var(--page-w), 44vw);
+    aspect-ratio: 23 / 32;
+  }
+  .page { position: relative; }
+  .page-left  { border-radius: 8px 0 0 8px; }
+  .page-right { border-radius: 0 8px 8px 0; }
+  .page-left::before, .page-right::before {  /* spine shading */
+    content: ''; position: absolute; inset: 0; z-index: 1; pointer-events: none;
+  }
+  .page-left::before  { background: linear-gradient(270deg, rgba(74,52,22,.38), transparent 22%); }
+  .page-right::before { background: linear-gradient(90deg,  rgba(74,52,22,.38), transparent 22%); }
+
+  .board {
+    position: absolute; left: 0; top: 0; z-index: 0;
+    border-radius: 8px 0 0 8px;
+    background:
+      radial-gradient(ellipse at 30% 30%, #4a3520, #2c1e10 75%);
+    box-shadow: inset 0 0 0 3px rgba(168,134,60,.35), inset 0 0 60px rgba(0,0,0,.6);
+    display: none;
+  }
+  .book.at-cover .board { display: block; }
+  .book.at-cover .page-left { visibility: hidden; }
+
+  .spine {
+    width: 4px; align-self: stretch; z-index: 2;
+    background: linear-gradient(180deg, #3a2a16, #1e1509);
+  }
+
+  .page-inner {
+    position: absolute; inset: 0; z-index: 2;
+    padding: clamp(1.2rem, 3.2vw, 2.6rem);
+    display: flex; flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ── Turning leaf ── */
+  .leaf {
+    position: absolute; top: 0; left: 50%;
+    width: 50%; height: 100%;
+    transform-origin: left center;
+    transform-style: preserve-3d;
+    z-index: 5;
+    transition: transform .9s cubic-bezier(.35,.1,.28,1);
+  }
+  .leaf-face {
+    position: absolute; inset: 0;
+    backface-visibility: hidden;
+  }
+  .leaf-front { border-radius: 0 8px 8px 0; }
+  .leaf-back  { transform: rotateY(180deg); border-radius: 8px 0 0 8px; }
+  .leaf.turned { transform: rotateY(-180deg); }
+  .leaf::after {  /* moving shade while turning */
+    content: ''; position: absolute; inset: 0; pointer-events: none;
+    background: linear-gradient(90deg, rgba(0,0,0,.28), transparent 40%);
+    opacity: 0; transition: opacity .45s;
+  }
+  .leaf.turning::after { opacity: 1; }
+
+  /* ── Edge click zones ── */
+  .edge {
+    position: absolute; top: 0; bottom: 0; width: 22%;
+    z-index: 3; background: none; border: 0; cursor: pointer;
+  }
+  .edge-left  { left: 0; }
+  .edge-right { right: 0; }
+  .edge:disabled { cursor: default; }
+
+  /* ── Nav ── */
+  .book-nav { display: flex; align-items: center; gap: 1.4rem; }
+  .nav-btn {
+    font-family: var(--font-caps); font-size: 1rem; letter-spacing: .1em;
+    color: var(--parchment-edge); background: none;
+    border: 1px solid rgba(184,159,110,.35); border-radius: 3px;
+    padding: .45rem 1.1rem; cursor: pointer;
+  }
+  .nav-btn:hover:not(:disabled) { color: var(--parchment); border-color: var(--parchment-edge); }
+  .nav-btn:disabled { opacity: .3; cursor: default; }
+  .nav-pos { font-family: var(--font-caps); color: var(--parchment-edge); letter-spacing: .12em; }
+
+  /* ── Single-page fallback ── */
+  @media (max-width: 899px) {
+    .page, .board { width: min(92vw, 480px); }
+    .page-left, .board, .spine, .leaf { display: none !important; }
+    .page-right { border-radius: 8px; }
+    .page-right::before { display: none; }
+    .book.at-cover .page-left { visibility: visible; }
+  }
+</style>
+
+<style is:global>
+  /* Page content typography (injected HTML) */
+  .page-body { display: flex; flex-direction: column; flex: 1; min-height: 0; }
+  .page-body .running-head {
+    font-family: var(--font-caps); font-size: .78rem; letter-spacing: .18em;
+    color: var(--ink-faded); text-align: center; margin-bottom: .9rem;
+  }
+  .page-body .page-text { flex: 1; min-height: 0; overflow-y: auto; scrollbar-width: thin; }
+  .page-body .folio {
+    font-family: var(--font-caps); color: var(--ink-faded);
+    margin-top: .8rem; font-size: .85rem;
+  }
+  [data-slot="left"] .folio, [data-slot="lb"] .folio { text-align: left; }
+  [data-slot="right"] .folio, [data-slot="lf"] .folio { text-align: right; }
+
+  .page-body h2 {
+    font-family: var(--font-display); font-weight: 600;
+    font-size: clamp(1.05rem, 1.9vw, 1.45rem);
+    letter-spacing: .04em; margin: 0 0 .2rem;
+    color: var(--ink);
+  }
+  .page-body .page-text p { line-height: 1.52; margin: 0 0 .85em; font-size: clamp(.86rem, 1.35vw, 1.02rem); }
+  .page-body .page-text ul { margin: 0 0 .85em; padding-left: 1.2em; }
+  .page-body .page-text li { line-height: 1.5; margin-bottom: .3em; font-size: clamp(.86rem, 1.35vw, 1.02rem); }
+  .page-body .page-text li::marker { color: var(--gold); }
+  .page-body .page-text strong { letter-spacing: .06em; }
+  .page-body .page-text em { color: var(--ink-faded); }
+
+  /* Drop cap on the first paragraph of a page */
+  .page-body .page-text > h2:first-child + .ornament + p::first-letter,
+  .page-body .page-text > p:first-child::first-letter {
+    font-family: var(--font-display);
+    float: left; font-size: 3.1em; line-height: .82;
+    padding: .04em .09em 0 0; color: var(--seal);
+  }
+
+  /* Title page */
+  .title-page { justify-content: center; text-align: center; gap: .9rem; }
+  .title-page .classification {
+    font-family: var(--font-caps); font-size: .8rem; letter-spacing: .28em;
+    color: var(--seal); border: 1px solid var(--seal);
+    padding: .3rem .7rem; align-self: center;
+    transform: rotate(-2deg); opacity: .85;
+  }
+  .title-page h1 {
+    font-family: var(--font-display); font-weight: 600;
+    font-size: clamp(1.3rem, 2.6vw, 2rem); letter-spacing: .05em;
+    margin: .4rem 0 0; color: var(--ink);
+  }
+  .title-page .byline { font-style: italic; color: var(--ink-faded); margin: 0; }
+  .title-page .date { font-family: var(--font-caps); letter-spacing: .16em; color: var(--ink-faded); margin: 0; }
+</style>
+
+<script>
+  const room = document.currentScript?.closest('.room') ?? document.querySelector('.room');
+  if (room) init(room as HTMLElement);
+
+  function init(root: HTMLElement) {
+    const tpl = root.querySelector('template[data-pages]') as HTMLTemplateElement;
+    const pages = Array.from(tpl.content.children).map((el) => el.outerHTML);
+    const N = pages.length;
+
+    const book = root.querySelector('[data-book]') as HTMLElement;
+    const leaf = root.querySelector('[data-leaf]') as HTMLElement;
+    const slots = {
+      left: root.querySelector('[data-slot="left"]') as HTMLElement,
+      right: root.querySelector('[data-slot="right"]') as HTMLElement,
+      lf: root.querySelector('[data-slot="lf"]') as HTMLElement,
+      lb: root.querySelector('[data-slot="lb"]') as HTMLElement,
+    };
+    const prevBtns = root.querySelectorAll<HTMLButtonElement>('[data-prev]');
+    const nextBtns = root.querySelectorAll<HTMLButtonElement>('[data-next]');
+    const pos = root.querySelector('[data-pos]') as HTMLElement;
+
+    const mqNarrow = window.matchMedia('(max-width: 899px)');
+    const mqReduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+
+    // Desktop: spread index s. s=0 -> [board | p0]; s>=1 -> [p(2s-1) | p(2s)]
+    // Narrow: page index p, shown in the right slot.
+    const maxSpread = Math.ceil((N - 1) / 2);
+    let s = 0, p = 0, busy = false;
+
+    const pageHTML = (i: number) => (i >= 0 && i < N ? pages[i] : '');
+    const spreadPages = (i: number): [number, number] => (i === 0 ? [-1, 0] : [2 * i - 1, 2 * i]);
+
+    function render() {
+      if (mqNarrow.matches) {
+        slots.right.innerHTML = pageHTML(p);
+        book.classList.toggle('at-cover', false);
+        setDisabled(p <= 0, p >= N - 1);
+        pos.textContent = `Page ${p + 1} of ${N}`;
+      } else {
+        const [l, r] = spreadPages(s);
+        slots.left.innerHTML = pageHTML(l);
+        slots.right.innerHTML = pageHTML(r);
+        book.classList.toggle('at-cover', s === 0);
+        setDisabled(s <= 0, s >= maxSpread);
+        pos.textContent = `Spread ${s + 1} of ${maxSpread + 1}`;
+      }
+    }
+
+    function setDisabled(prev: boolean, next: boolean) {
+      prevBtns.forEach((b) => (b.disabled = prev));
+      nextBtns.forEach((b) => (b.disabled = next));
+    }
+
+    function turn(dir: 1 | -1) {
+      if (busy) return;
+      if (mqNarrow.matches) {
+        const np = p + dir;
+        if (np < 0 || np > N - 1) return;
+        p = np; render(); return;
+      }
+      const ns = s + dir;
+      if (ns < 0 || ns > maxSpread) return;
+
+      if (mqReduce.matches) { s = ns; render(); return; }
+
+      busy = true;
+      const [curL, curR] = spreadPages(s);
+      const [newL, newR] = spreadPages(ns);
+
+      if (dir === 1) {
+        slots.lf.innerHTML = pageHTML(curR);   // leaf front: outgoing right
+        slots.lb.innerHTML = pageHTML(newL);   // leaf back: incoming left
+        slots.right.innerHTML = pageHTML(newR);
+        book.classList.toggle('at-cover', false);
+        leaf.hidden = false;
+        leaf.classList.remove('turned');
+        requestAnimationFrame(() => requestAnimationFrame(() => {
+          leaf.classList.add('turning', 'turned');
+        }));
+      } else {
+        slots.lf.innerHTML = pageHTML(newR);   // leaf front: incoming right
+        slots.lb.innerHTML = pageHTML(curL);   // leaf back: outgoing left
+        slots.left.innerHTML = pageHTML(newL);
+        book.classList.toggle('at-cover', ns === 0);
+        leaf.hidden = false;
+        leaf.classList.add('turned');
+        requestAnimationFrame(() => requestAnimationFrame(() => {
+          leaf.classList.add('turning');
+          leaf.classList.remove('turned');
+        }));
+      }
+
+      leaf.addEventListener('transitionend', function done(ev) {
+        if (ev.propertyName !== 'transform') return;
+        leaf.removeEventListener('transitionend', done);
+        s = ns; busy = false;
+        leaf.hidden = true;
+        leaf.classList.remove('turning', 'turned');
+        render();
+      });
+    }
+
+    prevBtns.forEach((b) => b.addEventListener('click', () => turn(-1)));
+    nextBtns.forEach((b) => b.addEventListener('click', () => turn(1)));
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight') turn(1);
+      if (e.key === 'ArrowLeft') turn(-1);
+    });
+    mqNarrow.addEventListener('change', () => {
+      // keep rough position across mode changes
+      if (mqNarrow.matches) p = s === 0 ? 0 : 2 * s - 1;
+      else s = p === 0 ? 0 : Math.ceil(p / 2);
+      render();
+    });
+
+    render();
+  }
+</script>

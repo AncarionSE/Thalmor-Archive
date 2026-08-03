@@ -1,0 +1,71 @@
+/* ── Tokens ─────────────────────────────────────────────── */
+:root {
+  --room: #16110c;
+  --room-glow: #2a2014;
+  --parchment: #e9dcba;
+  --parchment-deep: #d9c69a;
+  --parchment-edge: #b89f6e;
+  --ink: #2a2016;
+  --ink-faded: #6a563c;
+  --gold: #a8863c;
+  --seal: #7a2e1e;
+
+  --font-body: 'IM Fell English', 'Iowan Old Style', Georgia, serif;
+  --font-caps: 'IM Fell English SC', Georgia, serif;
+  --font-display: 'Cinzel', 'Trajan Pro', Georgia, serif;
+
+  --page-w: 460px;
+  --page-h: 640px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  background:
+    radial-gradient(ellipse 90% 70% at 50% 38%, var(--room-glow) 0%, var(--room) 68%),
+    var(--room);
+  color: var(--ink);
+  font-family: var(--font-body);
+}
+
+/* ── Shared parchment surface ───────────────────────────── */
+.parchment {
+  position: relative;
+  background:
+    radial-gradient(ellipse at 18% 12%, rgba(255,250,230,.55), transparent 55%),
+    radial-gradient(ellipse at 85% 90%, rgba(122,88,40,.20), transparent 60%),
+    radial-gradient(ellipse at 50% 50%, var(--parchment) 55%, var(--parchment-deep) 100%);
+  box-shadow:
+    inset 0 0 46px rgba(94,66,28,.35),
+    inset 0 0 6px rgba(94,66,28,.30);
+}
+.parchment::after {          /* paper grain, generated — no game textures */
+  content: '';
+  position: absolute; inset: 0;
+  pointer-events: none;
+  opacity: .5;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.72  0 0 0 0 0.62  0 0 0 0 0.44  0 0 0 0.16 0'/%3E%3C/filter%3E%3Crect width='240' height='240' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* ── Ornament divider ───────────────────────────────────── */
+.ornament {
+  display: flex; align-items: center; gap: .7rem;
+  color: var(--gold);
+  margin: .4rem 0 1rem;
+}
+.ornament::before, .ornament::after {
+  content: ''; flex: 1; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold));
+}
+.ornament::after { background: linear-gradient(90deg, var(--gold), transparent); }
+.ornament svg { flex: none; }
+
+/* ── Focus / motion floor ───────────────────────────────── */
+:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

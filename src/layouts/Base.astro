@@ -1,0 +1,23 @@
+---
+import '@fontsource/im-fell-english';
+import '@fontsource/im-fell-english/400-italic.css';
+import '@fontsource/im-fell-english-sc';
+import '@fontsource/cinzel/400.css';
+import '@fontsource/cinzel/600.css';
+import '../styles/global.css';
+
+interface Props { title: string; description?: string }
+const { title, description = 'An archive of field reports, kept as books.' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
