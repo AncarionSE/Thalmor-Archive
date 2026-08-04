@@ -4,6 +4,9 @@ export interface Category {
   spine: string; // leather tone for the shelf card
   icon: string; // fallback inline SVG markup, currentColor
   img?: string; // filename under public/icons/ — preferred over icon when set
+  imgScale?: number; // render box multiplier for img icons whose art is thin/diagonal
+                      // (e.g. a blade) and would otherwise look small next to bulkier
+                      // emblems at the same box size — default 1, see index.astro
 }
 
 // Bold filled-silhouette glyphs, hand-drawn originals (no game assets) —
@@ -34,6 +37,8 @@ export const CATEGORIES: Category[] = [
   {
     key: '02_incident_reports',
     img: 'sword.png',
+    imgScale: 1.3, // the blade is thin/diagonal and reads much smaller than the
+                    // bulkier emblem icons at the same box size — see index.astro
     label: 'Patrol &amp; Incident Reports',
     spine: '#4a3420',
     icon: fill(
