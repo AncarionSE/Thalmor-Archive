@@ -1,5 +1,5 @@
 ---
-title: "Talos worhsi"
+title: "Talos worshipers consiperacy"
 author: "Canonreeve Ancarion Saelthar"
 date: "2nd of last seed"
 classification: "Thalmor Eyes Only"
